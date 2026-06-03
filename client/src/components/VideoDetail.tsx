@@ -75,17 +75,9 @@ const VideoDetail: React.FC = () => {
 
   return (
     <Fragment>
-      <div
-        style={{
-          minHeight: 'calc(100vh - 70px)',
-          background: 'var(--ks-bg-primary)',
-          display: 'flex',
-          flexDirection: 'row',
-          gap: '0',
-        }}
-      >
+      <div className='ks-detail-container'>
         {/* Player Column */}
-        <div style={{ flex: 1, padding: '20px', overflowY: 'auto', maxHeight: 'calc(100vh - 70px)' }}>
+        <div className='ks-player-column'>
 
           {/* Processing State */}
           {isLocal && transcodingStatus === 'processing' && (
@@ -125,25 +117,20 @@ const VideoDetail: React.FC = () => {
 
           {/* Video Player */}
           {(!isLocal || transcodingStatus === 'completed') && (
-            <div style={{
-              borderRadius: 'var(--ks-radius-lg)',
-              overflow: 'hidden',
-              border: '1px solid var(--ks-border)',
-              background: '#000',
-              position: 'sticky',
-              top: '16px',
-            }}>
-              <ReactPlayer
-                url={
-                  isLocal
-                    ? `${BACKEND_URL}/streams/${id}/master.m3u8`
-                    : `https://www.youtube.com/watch?v=${id}`
-                }
-                width='100%'
-                height='54vh'
-                controls
-                style={{ display: 'block' }}
-              />
+            <div className='ks-player-sticky-wrapper'>
+              <div className='ks-player-wrapper'>
+                <ReactPlayer
+                  url={
+                    isLocal
+                      ? `${BACKEND_URL}/streams/${id}/master.m3u8`
+                      : `https://www.youtube.com/watch?v=${id}`
+                  }
+                  width='100%'
+                  height='100%'
+                  controls
+                  style={{ display: 'block' }}
+                />
+              </div>
 
               {/* Video Meta */}
               <div className='ks-video-meta'>
@@ -159,7 +146,7 @@ const VideoDetail: React.FC = () => {
                     <CheckCircleIcon style={{ fontSize: 15, color: 'var(--ks-purple-glow)' }} />
                   </Link>
 
-                  <div style={{ display: 'flex', gap: '10px' }}>
+                  <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
                     <span className='ks-stat-pill'>
                       <VisibilityIcon style={{ fontSize: 13, marginRight: 4 }} />
                       {viewCount ? parseInt(viewCount).toLocaleString() : 0} views
@@ -181,17 +168,7 @@ const VideoDetail: React.FC = () => {
         </div>
 
         {/* Related Videos Column */}
-        <div
-          style={{
-            width: '380px',
-            flexShrink: 0,
-            padding: '20px 16px',
-            overflowY: 'auto',
-            maxHeight: 'calc(100vh - 70px)',
-            borderLeft: '1px solid var(--ks-border)',
-            background: 'var(--ks-bg-secondary)',
-          }}
-        >
+        <div className='ks-related-column'>
           <p style={{ fontSize: '0.78rem', fontWeight: 600, color: 'var(--ks-text-muted)', marginBottom: '16px', textTransform: 'uppercase', letterSpacing: '0.5px' }}>
             Up Next
           </p>

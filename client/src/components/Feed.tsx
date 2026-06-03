@@ -56,9 +56,9 @@ const Feed: React.FC = () => {
 
   return (
     <Fragment>
-      <div style={{ display: 'flex', minHeight: 'calc(100vh - 70px)' }}>
+      <div className='ks-feed-container'>
         {/* Sidebar */}
-        <div style={{ width: '220px', flexShrink: 0, display: 'flex', flexDirection: 'column' }}>
+        <div className='ks-sidebar-wrapper'>
           <Sidebar
             selectedCategory={selectedCategory}
             setSelectedCategory={setSelectedCategory}
@@ -66,15 +66,7 @@ const Feed: React.FC = () => {
         </div>
 
         {/* Main Feed */}
-        <main
-          style={{
-            flex: 1,
-            padding: '28px 24px',
-            overflowY: 'auto',
-            maxHeight: 'calc(100vh - 70px)',
-            background: 'var(--ks-bg-primary)',
-          }}
-        >
+        <main className='ks-feed-main'>
           <h1 className='ks-feed-header'>
             <span>{selectedCategory}</span> Videos
           </h1>
@@ -101,13 +93,13 @@ const Feed: React.FC = () => {
           )}
 
           {loading ? (
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px' }}>
+            <div className='ks-video-grid'>
               {Array.from({ length: 8 }).map((_, i) => (
                 <div
                   key={i}
                   style={{
-                    width: 320,
-                    height: 240,
+                    width: '100%',
+                    height: 260,
                     background: 'var(--ks-bg-elevated)',
                     borderRadius: 'var(--ks-radius-md)',
                     border: '1px solid var(--ks-border)',

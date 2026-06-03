@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { OptionsI } from '../interfaces/api';
 
-export const BASE_URL = 'https://youtube-v311.p.rapidapi.com';
+export const BASE_URL = 'https://youtube-v31.p.rapidapi.com';
 
 const options: OptionsI = {
   params: {
@@ -9,7 +9,7 @@ const options: OptionsI = {
   },
   headers: {
     'X-RapidAPI-Key': import.meta.env.VITE_REACT_APP_RAPID_API_KEY,
-    'X-RapidAPI-Host': 'youtube-v311.p.rapidapi.com',
+    'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com',
   },
 };
 

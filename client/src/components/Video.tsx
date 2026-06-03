@@ -6,17 +6,9 @@ import ChannelCard from './ChannelCard';
 const Video: React.FC<VideoI> = ({ videos, direction }) => {
   return (
     <Fragment>
-      <div
-        style={{
-          display: 'flex',
-          flexWrap: direction === 'column' ? 'nowrap' : 'wrap',
-          flexDirection: direction === 'column' ? 'column' : 'row',
-          gap: '20px',
-          justifyContent: 'flex-start',
-        }}
-      >
+      <div className={`ks-video-grid ${direction === 'column' ? 'column-layout' : ''}`}>
         {videos.map((item: any, idx: number) => (
-          <div key={idx}>
+          <div key={idx} style={{ width: '100%' }}>
             {item.id?.videoId && <VideoCard video={item} />}
             {item.id?.channelId && <ChannelCard channelDetail={item} />}
           </div>

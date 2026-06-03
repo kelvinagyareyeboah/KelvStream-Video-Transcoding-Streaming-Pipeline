@@ -20,26 +20,19 @@ const SearchFeed: React.FC = () => {
 
   return (
     <Fragment>
-      <div
-        style={{
-          padding: '28px 24px',
-          overflowY: 'auto',
-          minHeight: 'calc(100vh - 70px)',
-          background: 'var(--ks-bg-primary)',
-        }}
-      >
+      <div className='ks-feed-main-only'>
         <h1 className='ks-feed-header'>
           Results for: <span>{searchTerm}</span>
         </h1>
 
         {loading ? (
-          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '20px' }}>
+          <div className='ks-video-grid'>
             {Array.from({ length: 8 }).map((_, i) => (
               <div
                 key={i}
                 style={{
-                  width: 320,
-                  height: 240,
+                  width: '100%',
+                  height: 260,
                   background: 'var(--ks-bg-elevated)',
                   borderRadius: 'var(--ks-radius-md)',
                   border: '1px solid var(--ks-border)',

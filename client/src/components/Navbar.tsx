@@ -25,26 +25,9 @@ const Navbar: React.FC = () => {
           target='_blank'
           rel='noreferrer'
           title='Upload & Transcode a Video via FFmpeg Pipeline'
-          style={{
-            background: 'linear-gradient(135deg, #7c3aed, #c084fc)',
-            color: 'white',
-            border: 'none',
-            padding: '8px 18px',
-            borderRadius: '24px',
-            cursor: 'pointer',
-            fontFamily: 'Inter, sans-serif',
-            fontWeight: '600',
-            fontSize: '0.82rem',
-            whiteSpace: 'nowrap',
-            textDecoration: 'none',
-            display: 'flex',
-            alignItems: 'center',
-            gap: '6px',
-            flexShrink: 0,
-            transition: 'opacity 0.2s',
-          }}
+          className='ks-upload-btn'
         >
-          ⬆ Upload
+          <span>⬆</span><span className='btn-text'> Upload</span>
         </a>
       </nav>
     </Fragment>

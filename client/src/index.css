@@ -453,8 +453,157 @@ body {
   animation: ks-fade-in 0.35s ease forwards;
 }
 
-/* ---- RESPONSIVE ---- */
+/* ---- RESPONSIVE LAYOUT CLASSES ---- */
+
+.ks-feed-container {
+  display: flex;
+  min-height: calc(100vh - var(--ks-navbar-height));
+  flex-direction: row;
+}
+
+.ks-sidebar-wrapper {
+  width: var(--ks-sidebar-width);
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.ks-feed-main {
+  flex: 1;
+  padding: 28px 24px;
+  overflow-y: auto;
+  max-height: calc(100vh - var(--ks-navbar-height));
+  background: var(--ks-bg-primary);
+}
+
+.ks-feed-main-only {
+  padding: 28px 24px;
+  overflow-y: auto;
+  min-height: calc(100vh - var(--ks-navbar-height));
+  background: var(--ks-bg-primary);
+}
+
+/* Responsive video grid */
+.ks-video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.ks-video-grid.column-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.ks-video-card {
+  width: 100% !important; /* Overrides fixed 320px width of .ks-video-card */
+}
+
+/* Upload Button in Navbar */
+.ks-upload-btn {
+  background: linear-gradient(135deg, #7c3aed, #c084fc);
+  color: white;
+  border: none;
+  padding: 8px 18px;
+  border-radius: 24px;
+  cursor: pointer;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.82rem;
+  white-space: nowrap;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-shrink: 0;
+  transition: opacity 0.2s;
+}
+
+.ks-upload-btn:hover {
+  opacity: 0.9;
+}
+
+/* Detail Page Layouts */
+.ks-detail-container {
+  min-height: calc(100vh - var(--ks-navbar-height));
+  background: var(--ks-bg-primary);
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.ks-player-column {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+  max-height: calc(100vh - var(--ks-navbar-height));
+}
+
+.ks-related-column {
+  width: 380px;
+  flex-shrink: 0;
+  padding: 20px 16px;
+  overflow-y: auto;
+  max-height: calc(100vh - var(--ks-navbar-height));
+  border-left: 1px solid var(--ks-border);
+  background: var(--ks-bg-secondary);
+}
+
+.ks-player-sticky-wrapper {
+  border-radius: var(--ks-radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--ks-border);
+  background: #000;
+  position: sticky;
+  top: 16px;
+}
+
+.ks-player-wrapper {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: #000;
+}
+
+
+/* ---- RESPONSIVE MEDIA QUERIES ---- */
+
+@media (max-width: 992px) {
+  .ks-detail-container {
+    flex-direction: column;
+  }
+  
+  .ks-player-column {
+    max-height: none;
+    overflow-y: visible;
+  }
+  
+  .ks-related-column {
+    width: 100%;
+    max-height: none;
+    overflow-y: visible;
+    border-left: none;
+    border-top: 1px solid var(--ks-border);
+  }
+
+  .ks-player-sticky-wrapper {
+    position: static;
+  }
+}
+
 @media (max-width: 768px) {
+  .ks-feed-container {
+    flex-direction: column;
+  }
+  
+  .ks-sidebar-wrapper {
+    width: 100%;
+    height: auto;
+  }
+
   .ks-sidebar {
     flex-direction: row !important;
     overflow-x: auto;
@@ -473,7 +622,73 @@ body {
     min-width: fit-content;
   }
 
-  .ks-video-card {
-    width: 100%;
+  .ks-feed-main {
+    max-height: none;
+    overflow-y: visible;
+    padding: 20px 16px;
+  }
+
+  .ks-feed-main-only {
+    padding: 20px 16px;
+  }
+  
+  .ks-video-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 16px;
   }
 }
+
+@media (max-width: 520px) {
+  .ks-navbar {
+    padding: 0 12px;
+    gap: 8px;
+  }
+
+  .ks-brand-name {
+    display: none;
+  }
+
+  .ks-search-form {
+    max-width: none;
+  }
+
+  .ks-search-input {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+
+  .ks-upload-btn {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+
+  .ks-upload-btn span.btn-text {
+    display: none;
+  }
+}
+
+/* Channel Detail Classes */
+.ks-channel-banner {
+  height: 280px;
+  background: var(--ks-gradient-hero);
+  z-index: 10;
+  position: relative;
+}
+
+.ks-channel-avatar-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: -100px;
+  position: relative;
+  z-index: 20;
+}
+
+@media (max-width: 768px) {
+  .ks-channel-banner {
+    height: 180px;
+  }
+  .ks-channel-avatar-wrapper {
+    margin-top: -60px;
+  }
+}
+

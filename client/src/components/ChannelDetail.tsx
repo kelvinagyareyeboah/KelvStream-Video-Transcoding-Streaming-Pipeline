@@ -28,23 +28,8 @@ const ChannelDetail: React.FC = () => {
   return (
     <div style={{ minHeight: '95vh', backgroundColor: 'var(--ks-bg-primary)' }} className="ks-fade-in">
       <div>
-        <div
-          style={{
-            height: '280px',
-            background: 'var(--ks-gradient-hero)',
-            zIndex: 10,
-            position: 'relative',
-          }}
-        />
-        <div
-          style={{
-            display: 'flex',
-            justifyContent: 'center',
-            marginTop: '-100px',
-            position: 'relative',
-            zIndex: 20,
-          }}
-        >
+        <div className='ks-channel-banner' />
+        <div className='ks-channel-avatar-wrapper'>
           <ChannelCard channelDetail={channelDetail} />
         </div>
       </div>
