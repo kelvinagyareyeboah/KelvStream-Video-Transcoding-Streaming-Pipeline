@@ -21,7 +21,7 @@ const Navbar: React.FC = () => {
 
         {/* Upload Shortcut */}
         <a
-          href='http://localhost:5000'
+          href={import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000'}
           target='_blank'
           rel='noreferrer'
           title='Upload & Transcode a Video via FFmpeg Pipeline'

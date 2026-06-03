@@ -1,10 +1,9 @@
 import React, { Fragment } from 'react';
 import { Link } from 'react-router-dom';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
-import { VideoI } from '../interfaces/video';
 import { demoProfilePicture } from '../utils/constants';
 
-const ChannelCard: React.FC<VideoI> = ({ channelDetail }) => {
+const ChannelCard: React.FC<{ channelDetail: any }> = ({ channelDetail }) => {
   const channelId = channelDetail?.id?.channelId;
   const thumbnailUrl = channelDetail?.snippet?.thumbnails?.high?.url || demoProfilePicture;
   const title = channelDetail?.snippet?.title;

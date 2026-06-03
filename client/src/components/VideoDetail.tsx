@@ -9,6 +9,8 @@ import { VideoDetailI } from '../interfaces/video';
 import Video from './Video';
 import { fetchFromAPI } from '../utils/fetchFromAPI';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000';
+
 const VideoDetail: React.FC = () => {
   const [videoDetail, setVideoDetail] = useState<VideoDetailI | null>(null);
   const [videos, setVideos] = useState([]);
@@ -22,7 +24,7 @@ const VideoDetail: React.FC = () => {
 
     if (isLocal) {
       const checkStatus = () => {
-        fetch(`http://localhost:5000/status/${id}`)
+        fetch(`${BACKEND_URL}/status/${id}`)
           .then((res) => res.json())
           .then((data) => {
             setTranscodingStatus(data.status);
@@ -134,7 +136,7 @@ const VideoDetail: React.FC = () => {
               <ReactPlayer
                 url={
                   isLocal
-                    ? `http://localhost:5000/streams/${id}/master.m3u8`
+                    ? `${BACKEND_URL}/streams/${id}/master.m3u8`
                     : `https://www.youtube.com/watch?v=${id}`
                 }
                 width='100%'

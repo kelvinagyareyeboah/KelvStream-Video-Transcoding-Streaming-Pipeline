@@ -1,0 +1,45 @@
+services:
+  - type: web
+    name: kelvstream-transcoder
+    runtime: docker
+    dockerfilePath: server/Dockerfile
+    dockerContext: server
+    plan: starter
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: CLIENT_URL
+        fromService:
+          name: kelvstream-client
+          type: web
+          property: url
+      - key: CORS_ORIGIN
+        fromService:
+          name: kelvstream-client
+          type: web
+          property: url
+      - key: UPLOADS_DIR
+        value: data/uploads
+      - key: TRANSCODED_DIR
+        value: data/transcoded
+    disk:
+      name: kelvstream-data
+      mountPath: /app/data
+      sizeGB: 1
+
+  - type: web
+    name: kelvstream-client
+    runtime: static
+    buildCommand: cd client && yarn install && yarn build
+    publishPath: client/dist
+    envVars:
+      - key: VITE_REACT_APP_RAPID_API_KEY
+        sync: false
+      - key: VITE_BACKEND_URL
+        fromService:
+          name: kelvstream-transcoder
+          type: web
+          property: url
+

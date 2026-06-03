@@ -2,6 +2,8 @@ import React, { useState, useEffect, Fragment } from 'react';
 import { Sidebar, Video } from '.';
 import { fetchFromAPI } from '../utils/fetchFromAPI';
 
+const BACKEND_URL = import.meta.env.VITE_BACKEND_URL || 'http://localhost:5000';
+
 const Feed: React.FC = () => {
   const [selectedCategory, setSelectedCategory] = useState<string>('New');
   const [videos, setVideos] = useState([]);
@@ -17,7 +19,7 @@ const Feed: React.FC = () => {
         const youtubeVideos = data.items || [];
 
         // Query local transcoder backend to list successfully transcoded videos
-        fetch('http://localhost:5000/videos')
+          fetch(`${BACKEND_URL}/videos`)
           .then((res) => {
             if (!res.ok) throw new Error('Local server error');
             return res.json();
