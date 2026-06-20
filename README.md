@@ -1,5 +1,4 @@
- the Backend
-1. Navigate to the server folder:
+te to the server folder:
    ```bash
    cd server
    ```
