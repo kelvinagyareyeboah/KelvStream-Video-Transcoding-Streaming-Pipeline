@@ -1,6 +1,5 @@
 rate)
-  s
-  itrate (ynamically as network speeds change.
+  sly as network speeds change.
 
 ### 2. Preimplements a bespoke luxury UI:
 - **Color Scheme**: Deep with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
