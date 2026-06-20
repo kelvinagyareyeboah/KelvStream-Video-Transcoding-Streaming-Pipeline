@@ -1,7 +1,6 @@
 
    cd server
-   ```
-2. Install server dependencies:
+   ```ndencies:
    ```bash
    npm install
    ```
