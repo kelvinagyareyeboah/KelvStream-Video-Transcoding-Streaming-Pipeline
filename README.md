@@ -1,5 +1,4 @@
-
-- **Responsive Layout**: Designed for mobile and desktop d models instead of strict framework boxes.
+out**: Designed for mobile and desktop d models instead of strict framework boxes.
 - **Micro-animations**: Interactive elements animate on hover, including play button overlay triggers, card translations, and pulsating pipeline loaders.
 
 ---
