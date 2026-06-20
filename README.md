@@ -1,5 +1,5 @@
 tive Bitrate Streaming Platform
-uilt with React, TypeScript, and a custom CSS desig
+uilt wiReact, TypeScript, and a custom CSS desig
 
 ---
 
