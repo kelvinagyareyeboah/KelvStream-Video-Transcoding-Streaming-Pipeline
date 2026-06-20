@@ -1,5 +1,4 @@
-
-├── client/                 # React & TypeScript Frontend (Vite)
+             # React & TypeScript Frontend (Vite)
 │           # Icons and static web assets
 └── server/                 # Node.js + Express Backend
     ├── uploads/            # Temporary storage for raw video uploads
