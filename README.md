@@ -1,4 +1,4 @@
-te to the server folder:
+
    ```bash
    cd server
    ```
