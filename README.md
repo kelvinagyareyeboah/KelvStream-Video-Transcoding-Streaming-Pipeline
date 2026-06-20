@@ -1,7 +1,4 @@
 l
-   ```
-3. Start the transcoding server:
-   ```bash
    npm start
    ```
    *The server runs at `http://localhost:5000` where it hosts an automated **Transcoding Control Panel** to test raw video submissions.*
