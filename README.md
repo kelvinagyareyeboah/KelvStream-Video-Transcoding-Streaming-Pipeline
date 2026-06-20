@@ -1,6 +1,4 @@
 
-   cd server
-   ```ndencies:
    ```bash
    npm install
    ```
