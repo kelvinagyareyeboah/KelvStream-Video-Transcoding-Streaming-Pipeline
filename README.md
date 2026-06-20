@@ -1,7 +1,4 @@
-d desktopanimate on hover, including play button overlay triggers, card translations, an
-## 📂 Project Structure
 
-```text
 youtube-clone-main/
 ├── client/                 # React & TypeScript Frontend (Vite)
 │   ├── src/
