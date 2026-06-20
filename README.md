@@ -1,6 +1,5 @@
 
 
-### 2. Prs a bespoke luxury UI:
 - **Color Scheme**: Deep with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
 - **Glassmorphism**: Translucent navbars and sidebars with modern backing filters (`backdrop-filter: blur(20px)`).
 - **Responsive Layout**: Designed for mobile and desktop d models instead of strict framework boxes.
