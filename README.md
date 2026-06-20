@@ -1,5 +1,4 @@
-
-uilt wiReact, TypeScript, and a custom CSS desig
+, TypeScript, and a custom CSS desig
 
 ---
 
