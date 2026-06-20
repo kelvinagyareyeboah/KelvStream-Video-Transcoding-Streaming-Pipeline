@@ -1,4 +1,4 @@
-out**: Designed for mobile and desktopanimate on hover, including play button overlay triggers, card translations, an
+d desktopanimate on hover, including play button overlay triggers, card translations, an
 ## 📂 Project Structure
 
 ```text
