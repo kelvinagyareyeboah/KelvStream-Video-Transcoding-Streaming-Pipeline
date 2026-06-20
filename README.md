@@ -1,4 +1,3 @@
-, TypeScript, and a custom CSS desig
 
 ---
 
