@@ -1,5 +1,4 @@
 
-   ```bash
    cd server
    ```
 2. Install server dependencies:
