@@ -1,8 +1,6 @@
 
 ├── client/                 # React & TypeScript Frontend (Vite)
-│   ├── src/Components (Navbar, Feed, VideoDetail, etc.)
-│   │   └── utils/          # API services
-│   └── public/             # Icons and static web assets
+│           # Icons and static web assets
 └── server/                 # Node.js + Express Backend
     ├── uploads/            # Temporary storage for raw video uploads
     └── transcoded/         # Transcoded HLS manifest playlists and chunks
