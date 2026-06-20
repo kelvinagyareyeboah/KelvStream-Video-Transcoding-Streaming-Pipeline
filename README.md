@@ -1,6 +1,5 @@
 tive Bitrate Streaming Platform
-uilt with React, TypeScript, and a custom CSS design system, KelvStream features a luxury dark purple/violet UI and integrates both remotTube v3 API media and local FFmpeg-transcoded HTTP Live Str
-
+uilt with React, TypeScript, and a custom CSS desig
 
 ---
 
