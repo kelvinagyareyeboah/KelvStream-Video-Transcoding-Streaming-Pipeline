@@ -1,4 +1,4 @@
-             # React & TypeScript Frontend (Vite)
+t & TypeScript Frontend (Vite)
 │               # Temporary storage for raw video uploads
     └── transcoded/         # Transcoded HLS manifest playlists and chunks
 ```
