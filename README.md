@@ -1,6 +1,4 @@
 
-  - *Windows*: Rupeg`
-
 ---
 
 ### Step 1: Running the Backend
