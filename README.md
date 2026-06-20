@@ -1,7 +1,5 @@
              # React & TypeScript Frontend (Vite)
-│           # Icons and static web assets
-└── server/                 # Node.js + Express Backend
-    ├── uploads/            # Temporary storage for raw video uploads
+│               # Temporary storage for raw video uploads
     └── transcoded/         # Transcoded HLS manifest playlists and chunks
 ```
 
