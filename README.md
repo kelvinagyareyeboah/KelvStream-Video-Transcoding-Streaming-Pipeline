@@ -1,5 +1,5 @@
  platforms cannot deliver raw files directly to users. KelvStream features a live, local **HLS Transcoding Pipeline**:
-- **Multiplexed Video Processing**: When a video is uploaded, a 
+- **Multiplexed Video Process*: When a video is uploaded, a 
 - **Stream Segmenting**: The raw media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **720p HD** (High quality, high bitrate)
   - **360p SD** (Standard quality, low bandwidth)
