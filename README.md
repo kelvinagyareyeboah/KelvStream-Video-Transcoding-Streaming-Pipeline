@@ -1,4 +1,4 @@
-tive Bitrate Streaming Platform
+
 uilt wiReact, TypeScript, and a custom CSS desig
 
 ---
