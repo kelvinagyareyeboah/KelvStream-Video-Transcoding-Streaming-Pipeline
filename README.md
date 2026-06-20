@@ -1,6 +1,4 @@
-
-   ```bash
-   npm install
+l
    ```
 3. Start the transcoding server:
    ```bash
