@@ -1,6 +1,5 @@
 t & TypeScript
-│               # Temporary storage for raw video uploads
-    └── transcoded/         # Transcoded HLS manifest playlist
+│               # Temporary storage for raw vid    # Transcoded HLS manifest playlist
 - **Node.js** (v16+ recommended)
 - **Yarn** package manager
 - **FFmpeg** installed on your system PATH.
