@@ -1,5 +1,4 @@
 
-- **FFmpeg** installed on your system PATH.
   - *Windows*: Run `wingedownload from Gyan.dev and add the `bin` directory to your System Environment variables.
   - *Mac*: `brew install ffmpeg`
 
