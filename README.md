@@ -1,4 +1,4 @@
-t & Typporary storage for raw vid    # Transcoded HLS manifest playlist
+ # Transcoded HLS manifest playlist
 - **Node.js** (v16+ recommended)
 - **Yarn** package manager
 - **FFmpeg** installed on your system PATH.
