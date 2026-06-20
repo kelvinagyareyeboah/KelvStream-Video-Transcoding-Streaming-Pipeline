@@ -1,7 +1,4 @@
-
----
-
-### Step 1: Running the Backend
+ the Backend
 1. Navigate to the server folder:
    ```bash
    cd server
