@@ -2,7 +2,7 @@
 - **Stream Segmenting**: The raw media is split into 6-second `.ts` chunks and compiled into playlists for two distinct profiles:
   - **720p HD** (High quality, high bitrate)
   - **360p SD** (Standard quality, low bandwidth)
-- **Master Manifest (`master.m3u8`)**: A master index acts as the entry point, allowing the ReactPlayer component to perform client-side **Adaptive Bitrate (ABR)** shiuality dynamically as network speeds change.
+- **Master Manifest (`master.m3u8`)**: A master index acts as the entry point, allowing the ReactPlayer component to perform client-side **Adaptive Bitrate (ynamically as network speeds change.
 
 ### 2. Premium Design System
 Instead of generic corporate designs, KelvStream implements a bespoke luxury UI:
