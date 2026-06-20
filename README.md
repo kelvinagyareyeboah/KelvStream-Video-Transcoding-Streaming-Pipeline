@@ -1,11 +1,6 @@
 t & TypeScript Frontend (Vite)
 │               # Temporary storage for raw video uploads
-    └── transcoded/         # Transcoded HLS manifest playlists and chunks
-```
-
-
-
-### Prerequisites
+    └── transcoded/         # Transcoded HLS manifest playlist
 - **Node.js** (v16+ recommended)
 - **Yarn** package manager
 - **FFmpeg** installed on your system PATH.
