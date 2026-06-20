@@ -1,6 +1,6 @@
 rate)
-  - **360p SD** (Standard quality, low bandwidth)
-- ** Bitrate (ynamically as network speeds change.
+  s
+  itrate (ynamically as network speeds change.
 
 ### 2. Preimplements a bespoke luxury UI:
 - **Color Scheme**: Deep with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
