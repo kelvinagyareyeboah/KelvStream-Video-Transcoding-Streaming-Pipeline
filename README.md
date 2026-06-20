@@ -1,7 +1,6 @@
 
 ├── client/                 # React & TypeScript Frontend (Vite)
-│   ├── src/
-│   │   ├── components/     # UI Components (Navbar, Feed, VideoDetail, etc.)
+│   ├── src/Components (Navbar, Feed, VideoDetail, etc.)
 │   │   └── utils/          # API services
 │   └── public/             # Icons and static web assets
 └── server/                 # Node.js + Express Backend
