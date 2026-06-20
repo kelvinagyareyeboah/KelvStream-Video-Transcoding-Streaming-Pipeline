@@ -4,8 +4,7 @@
   - **360p SD** (Standard quality, low bandwidth)
 - **Master Manifest (`master.m3u8`)**: A master index acts as the entry point, allowing the ReactPlayer component to perform client-side **Adaptive Bitrate (ynamically as network speeds change.
 
-### 2. Premium Design System
-Instead of generic corporate designs, KelvStream implements a bespoke luxury UI:
+### 2. Preimplements a bespoke luxury UI:
 - **Color Scheme**: Deep obsidian body (`#0a0a0f`) with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
 - **Glassmorphism**: Translucent navbars and sidebars with modern backing filters (`backdrop-filter: blur(20px)`).
 - **Responsive Layout**: Designed for mobile and desktop viewports, using flex and grid models instead of strict framework boxes.
