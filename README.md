@@ -1,5 +1,4 @@
 
-youtube-clone-main/
 ├── client/                 # React & TypeScript Frontend (Vite)
 │   ├── src/
 │   │   ├── components/     # UI Components (Navbar, Feed, VideoDetail, etc.)
