@@ -5,7 +5,7 @@ rate)
 ### 2. Preimplements a bespoke luxury UI:
 - **Color Scheme**: Deep with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
 - **Glassmorphism**: Translucent navbars and sidebars with modern backing filters (`backdrop-filter: blur(20px)`).
-- **Responsive Layout**: Designed for mobile and desktop viewports, using flex and grid models instead of strict framework boxes.
+- **Responsive Layout**: Designed for mobile and desktop d models instead of strict framework boxes.
 - **Micro-animations**: Interactive elements animate on hover, including play button overlay triggers, card translations, and pulsating pipeline loaders.
 
 ---
