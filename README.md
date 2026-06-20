@@ -1,6 +1,6 @@
 rate)
   - **360p SD** (Standard quality, low bandwidth)
-- **Master Manifest (`master.m3u8`)**: A master index acts as the entry point, allowing the ReactPlayer component to perform client-side **Adaptive Bitrate (ynamically as network speeds change.
+- ** Bitrate (ynamically as network speeds change.
 
 ### 2. Preimplements a bespoke luxury UI:
 - **Color Scheme**: Deep with ultraviolet (`#7c3aed`) and pink neon (`#c084fc`) gradients.
