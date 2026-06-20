@@ -1,4 +1,4 @@
-t & TypeScript Frontend (Vite)
+t & TypeScript
 │               # Temporary storage for raw video uploads
     └── transcoded/         # Transcoded HLS manifest playlist
 - **Node.js** (v16+ recommended)
