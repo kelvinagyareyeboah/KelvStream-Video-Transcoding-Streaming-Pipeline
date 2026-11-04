@@ -6,7 +6,7 @@ the core infrastructure behind services like YouTube  a **live FFmpeg-powered HL
 ## Table of Contents
 
 - [Architecture](#architecture)
-- [Feature Highlights](#feature-highlights)
+- [Feature Highligh
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
