@@ -1,4 +1,4 @@
-badge/Node.js-16.io/badge/FFmpeg-HLS-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org)
+FFmpeg-HLS-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org)
 [![Express](https://img.shields.io/badge/Express-4-000000?style=flat-square&logo=express)](https://expressjs.com)
 
 </div>
