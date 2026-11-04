@@ -1,7 +1,5 @@
 
 
-# ⚡ KelvStream
-
 ### FAANG-Grade Adaptive Bitrate Streaming Platform
 
 *Production-quality HLS transcoding pipeline · Luxury dark UI · YouTube Data API v3 integration*
