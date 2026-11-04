@@ -1,6 +1,4 @@
-Streaming Platform
-
-*Production-quality HLS transcoding pipeline · Luxury dark UI · YouTube Data API v3 integration*
+StreamingLS transcoding pipeline · Luxury dark UI · YouTube Data API v3 integration*
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)](https://typescriptlang.org)
