@@ -1,4 +1,4 @@
-pt)](https://typescriptlang.org)
+
 [![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite)](https://vitejs.dev)
 [![Node.js](https://img.shields.io/badge/Node.js-16+-339933?style=flat-square&logo=node.js)](https://nodejs.org)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-HLS-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org)
