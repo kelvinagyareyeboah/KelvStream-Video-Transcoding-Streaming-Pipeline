@@ -3,9 +3,8 @@ FFmpeg-HLS-0078ps://ffmpeg.org)
 
 ## Overview
 
-KelvStream is a full-stack, production-inspired video streaming platform that replicates the core infrastructure behind services like YouTube and Netflix. It features a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke luxury UI — built to demonstrate mastery of the complete client-to-server video delivery lifecycle.
-
-> **Not a tutorial clone.** KelvStream implements real streaming infrastructure — multiplexed encoding, segmented manifests, and client-side ABR switching — backed by a live Express transcoding server.
+KelvStream is a full-stack, production-inspired video streaming platform that replicates the core infrastructure behind services like YouTube and Netflix. It features a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke luxury UI — built to demonstrate mastery of the complete client-to-server video delivery lifecyc
+> **Not a tutorial clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABR switching — backed by a live Express transcoding server.
 
 
 ![KelvStream Banner](banner.png)
