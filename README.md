@@ -2,7 +2,7 @@ xpress-4-000000?style=flat-square&logo=express)](https://expre
 
 ## Overview
 
-KelvStream is a full-stack, production-inspired video streami the core infrastructure behind services like YouTube  a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke luxury UI — built to demonstrate mastery of the complete client-to-server
+KelvStre, production-inspired video streami the core infrastructure behind services like YouTube  a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke luxury UI — built to demonstrate mastery of the complete client-to-server
 > **Not a tutorial clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABR switching — backed by a live Express t![KelvStream B
 
 ---
