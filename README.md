@@ -4,7 +4,7 @@ peg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke
 - [F
 - [Tecstack)
 - [Project Structure](#pro
-- [Design Syste
+- [De
 
 ```
 ┌───────────────────────────────────────CLIENT (React + Vite)                    │
