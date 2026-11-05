@@ -5,7 +5,7 @@
   CLIENT (React + Vite)                    │
 │                                                                 │
 │   ┌──────────┐    ┌──────────────┐    ┌─
-│   │  YouTube  │    │  ReactPlayer  │    │  Local HLS Feed   │    │
+│   │  YouTub  │    │  Loc Fe│    │
 │   │  API Feed │    │  (ABR Client) │    │  (⚡ Badge)        │    │
 │   └──────────┘    └──────┬───────┘    └─────────┬─────────┘    │
 │                          │                       │              │
