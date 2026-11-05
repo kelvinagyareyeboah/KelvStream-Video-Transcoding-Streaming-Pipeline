@@ -1,8 +1,7 @@
 ts real streaming infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream B
 - [Arch
 - [F
-  CLIENT (React + Vite)                    │
-│                                                                 │
+  CLIE│
 │   ┌──────────┐    ┌──────────────┐    ┌─
 │   │  YouTub  │    
 │   │  API Fee    │  (⚡ Badge)        │    │
