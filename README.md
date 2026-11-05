@@ -3,12 +3,11 @@
 │   │           child process                 │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│   │          └─────────────┬──────────────┘                   │ │
-│   │                        ▼                                │   │           Served from /trscoded/                        │ │
-1
+│   │                        ▼                                │   │           Served from /trscoded/          
 2. FFmpeg spawns asynchronously and encodes **two rendition** in parallel — 360p SD — h into 6-second 
 3. A **master manifest** (`master.m3u8`) is gerencing both rendition playlists.
 4. The Re
-5. ReactPlayer fetches the master manifest and begins streaming. As network conditions change, it **automatically switches** between the 720p and 360p playlists — zero buffering, seam.
+5. ReactPlayer fetches the master manifest and begins streaming. As network conditions change, it **automatically switches** between the 720p and 360p playlists — zero buf
 
 ---
 
