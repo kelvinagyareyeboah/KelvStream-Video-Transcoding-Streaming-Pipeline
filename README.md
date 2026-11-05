@@ -7,9 +7,7 @@
 2. FFmpeg spawns asynchronously and encodes **two rens
 — 360p SD — h into 6-second 
 3. A **master manifest** (`master.m3u8`) is gere playlists.
-4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between the 720p and 360p playlis
-
----
+4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between the 720p ---
 
 ## Feature Highlights
 
