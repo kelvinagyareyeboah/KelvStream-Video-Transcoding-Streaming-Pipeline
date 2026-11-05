@@ -1,6 +1,6 @@
 
 │   │                  /upload endpoint                         │ │
-│   │           Raw .mp4 → FFmpeg child process                 │ │
+│   │           child process                 │ │
 │   │                        │                          │   │          ▼                            ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│   │          └─────────────┬──────────────┘                   │ │
 │   │                        ▼                                │   │           Served from /trscoded/                        │ │
