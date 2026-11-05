@@ -5,7 +5,7 @@ s like YouTube  a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bit
 - [Tecstack)
 - [Project Structure](#pro
 - [Design System](#de
-- [API Reference](#api
+- [API 
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
