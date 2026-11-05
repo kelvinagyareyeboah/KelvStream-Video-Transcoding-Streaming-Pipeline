@@ -1,5 +1,4 @@
-
-│   │                  /upload endpoint                         │ │
+point                         │ │
 │   │           child process                 │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│                      │ │
