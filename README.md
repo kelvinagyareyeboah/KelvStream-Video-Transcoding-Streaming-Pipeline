@@ -4,9 +4,7 @@
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│   │          └─────────────┬──────────────┘                   │ │
 │   │                        ▼                                │   │           Served from /trscoded/                        │ │
-│   └───────────────────────────────────────────────────────────┘ │
-└──────────────────────────────────────────────────
-### How ABR Works in KelvStream
+Works in KelvStream
 1. A raw `.mp4` is upload se
 2. FFmpeg spawns asynchronously and encodes **two renditions** in parallel — 360p SD — h into 6-second 
 3. A **master manifest** (`master.m3u8`) is generated, referencing both rendition playlists.
