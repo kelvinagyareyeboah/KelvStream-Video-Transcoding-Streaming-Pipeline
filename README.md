@@ -5,7 +5,7 @@ s like YouTube  a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bit
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
-- [Usage Walkthrough](#usage-walkthrough)
+- [Usage Walkthrough](#usage-
 - [Design System](#design-system)
 - [API Reference](#api-reference)
 
