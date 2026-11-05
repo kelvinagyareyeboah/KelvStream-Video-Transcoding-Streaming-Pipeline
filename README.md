@@ -1,5 +1,4 @@
-ver
-> **Not a tutorial clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream B
+clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream B
 - [Arch
 - [F
   CLIENT (React + Vite)                    │
