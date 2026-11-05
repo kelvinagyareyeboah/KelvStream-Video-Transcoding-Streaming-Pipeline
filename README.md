@@ -8,7 +8,7 @@
 2. FFmpeg spawns asynchronously and encodes **two renditions** in parallel — 360p SD — h into 6-second 
 3. A **master manifest** (`master.m3u8`) is generated, referencing both rendition playlists.
 4. The Re
-5. ReactPlayer fetches the master manifest and begins streaming. As network conditions change, it **automatically switches** between the 720p and 360p playlists — zero buffering, seamless quality shifts.
+5. ReactPlayer fetches the master manifest and begins streaming. As network conditions change, it **automatically switches** between the 720p and 360p playlists — zero buffering, seam.
 
 ---
 
