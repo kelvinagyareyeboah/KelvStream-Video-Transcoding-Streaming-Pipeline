@@ -1,4 +1,4 @@
-peg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke luxury UI — built to demonstrate mastery of the complete client-to-server
+peg-powered nt-to-server
 > **Not a tutorial clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream B
 - [Arch
 - [F
