@@ -5,7 +5,7 @@ infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStre
 │   └──────────┘    └──────┬───────┘    └───────└──────────────────────────┼────────────────────│ HTTP                  │ HLS Segments
 ┌──────────────────────────┼───────────────────────┼─────────────┐
 │                   SERVER (Node.js + Express)      │             │
-│                          │                        │             │
+│            │             │
 │   ┌──────────────────────▼────────────────────────▼──────────┐ │
 │   │                  /upload endpoint                         │ │
 │   │           Raw .mp4 → FFmpeg child process                 │ │
