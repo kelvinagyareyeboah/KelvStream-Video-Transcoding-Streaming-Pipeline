@@ -3,7 +3,7 @@
 │   │           child process                 │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│                      │ │
-│   │                        ▼                                │   │           Served from /trscoded/          
+│   │                    Served from /trscoded/          
 2. FFmpeg spawns asynchronously and encodes **two rens
 — 360p SD — h into 6-second 
 3. A **master manifest** (`master.
