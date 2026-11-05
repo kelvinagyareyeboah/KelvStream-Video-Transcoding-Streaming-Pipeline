@@ -1,4 +1,4 @@
-, and cide ABRked bExpressvStream  CLIE│
+ABRked bExpressvStream  CLIE│
 │   ┌──────────┐    ┌───
 │   │  YouTub  │    
 │   │  API Fee    │  (⚡ Badge)        │    │
