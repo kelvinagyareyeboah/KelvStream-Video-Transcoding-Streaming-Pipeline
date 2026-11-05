@@ -2,7 +2,7 @@
 │   │                  /upload endpoint                         │ │
 │   │           child process                 │ │
 │   │                        │                                        ▼                   │ │
-│   │   720p HD Profile              360p SD Profil│   │          └─────────────┬──────────────┘                   │ │
+│   │   720p HD Profile              360p SD Profil│                      │ │
 │   │                        ▼                                │   │           Served from /trscoded/          
 2. FFmpeg spawns asynchronously and encodes **two rens
 — 360p SD — h into 6-second 
