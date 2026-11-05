@@ -1,4 +1,4 @@
-infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream  CLIE│
+ manifests, and client-side ABRked bExpressvStream  CLIE│
 │   ┌──────────┐    ┌───
 │   │  YouTub  │    
 │   │  API Fee    │  (⚡ Badge)        │    │
