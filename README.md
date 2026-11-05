@@ -7,8 +7,7 @@ s like YouTube  a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bit
 - [Design Syste
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                        CLIENT (React + Vite)                    │
+┌───────────────────────────────────────CLIENT (React + Vite)                    │
 │                                                                 │
 │   ┌──────────┐    ┌──────────────┐    ┌───────────────────┐    │
 │   │  YouTube  │    │  ReactPlayer  │    │  Local HLS Feed   │    │
