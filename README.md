@@ -4,7 +4,7 @@ peg-powered nt-to-server
 - [F
   CLIENT (React + Vite)                    │
 │                                                                 │
-│   ┌──────────┐    ┌──────────────┐    ┌───────────────────┐    │
+│   ┌──────────┐    ┌──────────────┐    ┌─
 │   │  YouTube  │    │  ReactPlayer  │    │  Local HLS Feed   │    │
 │   │  API Feed │    │  (ABR Client) │    │  (⚡ Badge)        │    │
 │   └──────────┘    └──────┬───────┘    └─────────┬─────────┘    │
