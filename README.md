@@ -7,8 +7,7 @@ ts real streaming infrastruced encoding, segmented manifests, and client-side AB
 │   │  API Fee    │  (⚡ Badge)        │    │
 │   └──────────┘    └──────┬───────┘    └─────────┬─────────┘    │
 │                          │                       │              │
-└──────────────────────────┼───────────────────────┼─────────────┘
-                           │ HTTP                  │ HLS Segments
+└──────────────────────────┼────────────────────│ HTTP                  │ HLS Segments
 ┌──────────────────────────┼───────────────────────┼─────────────┐
 │                   SERVER (Node.js + Express)      │             │
 │                          │                        │             │
