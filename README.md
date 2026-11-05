@@ -8,7 +8,7 @@
 └──────────────────────────────────────────────────
 ### How ABR Works in KelvStream
 
-1. A raw `.mp4` is uploaded to the Express server via the local Control Panel.
+1. A raw `.mp4` is upload server via the local Control Panel.
 2. FFmpeg spawns asynchronously and encodes **two renditions** in parallel — 720p HD and 360p SD — splitting each into 6-second `.ts` segments.
 3. A **master manifest** (`master.m3u8`) is generated, referencing both rendition playlists.
 4. The React frontend detects the new upload and renders it with a `⚡ Local HLS` badge.
