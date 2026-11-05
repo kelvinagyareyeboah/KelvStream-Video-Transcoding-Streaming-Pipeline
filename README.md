@@ -1,5 +1,4 @@
-    └──────┬───────┘    └───────└──────────────────────────┼────────────────────│ HTTP                  │ HLS Segments
- │
+
 │   │                  /upload endpoint                         │ │
 │   │           Raw .mp4 → FFmpeg child process                 │ │
 │   │                        │                          │   │          ▼                            ▼                   │ │
