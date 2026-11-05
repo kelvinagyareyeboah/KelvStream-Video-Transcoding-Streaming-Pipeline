@@ -1,5 +1,5 @@
 infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream  CLIE│
-│   ┌──────────┐    ┌──────────────┐    ┌─
+│   ┌──────────┐    ┌───
 │   │  YouTub  │    
 │   │  API Fee    │  (⚡ Badge)        │    │
 │   └──────────┘    └──────┬───────┘    └───────└──────────────────────────┼────────────────────│ HTTP                  │ HLS Segments
