@@ -4,7 +4,7 @@ ts real streaming infrastruced encoding, segmented manifests, and client-side AB
   CLIENT (React + Vite)                    │
 │                                                                 │
 │   ┌──────────┐    ┌──────────────┐    ┌─
-│   │  YouTub  │    │  Loc Fe│    │
+│   │  YouTub  │    
 │   │  API Fee    │  (⚡ Badge)        │    │
 │   └──────────┘    └──────┬───────┘    └─────────┬─────────┘    │
 │                          │                       │              │
