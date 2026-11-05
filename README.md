@@ -2,10 +2,7 @@ peg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke
 > **Not a tutorial clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABRked bExpressvStream B
 - [Arch
 - [F
-- [Project Stru
-
-```
-┌───────────────────────────────────────CLIENT (React + Vite)                    │
+  CLIENT (React + Vite)                    │
 │                                                                 │
 │   ┌──────────┐    ┌──────────────┐    ┌───────────────────┐    │
 │   │  YouTube  │    │  ReactPlayer  │    │  Local HLS Feed   │    │
