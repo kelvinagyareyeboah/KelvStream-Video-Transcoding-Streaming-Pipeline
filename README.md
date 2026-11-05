@@ -1,7 +1,7 @@
 s like YouTube  a **live FFmpeg-powered HLS transcoding pipeline**, adaptive bitrate delivery, and a bespoke luxury UI — built to demonstrate mastery of the complete client-to-server
 > **Not a tutorial clone.** KelvStream implements real streaming infrastruced encoding, segmented manifests, and client-side ABR switching — backed bExpressvStream B
 - [Archithitecture)
-- [Feature Highligh
+- [F
 - [Tecstack)
 - [Project Structure](#proj
 - [Usage Walkthro
