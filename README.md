@@ -1,6 +1,4 @@
-nv                        # RapidAPI key 
-│ 
-│
+nv     
 └── server/                         # Node.
     ├── index.js                    # Server entry point + transcoding logic
     ├── uploads/                    # Temporary raw video storage (gitignored)
