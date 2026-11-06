@@ -9,9 +9,7 @@ point                         │ │
 | Feature | Description |
 |---|---|
 | **HLS Transcoding Pipeline** | Server-side FFmpeg encodes uploads into segmented HLS streams in real time |
-| **Adaptive Bitrate (ABR)** | Client automatically switches quality tiers based on live bandwidth |
-| **Dual Quality Renditions** | 720p HD and 360p SD profiles with 6-second `.ts` segments |
-| **Master M3U8 Manifest** | Single entry point enabling standards-compliant ABR switching |
+| **Adaptive Bitrate (ABR)** | Client automatically switches quality tiers based on live bandwidt| **Master M3U8 Manifest** | Single entry point enabling standards-compliant ABR switching |
 | **YouTube API Integration** | Live feed of YouTube content via RapidAPI's YouTube Data v3 wrapper |
 | **Local HLS Discovery** | Frontend auto-detects and surfaces locally transcoded videos |
 | **Transcoding Control Panel** | Built-in Express UI at `localhost:5000` for direct upload testing |
