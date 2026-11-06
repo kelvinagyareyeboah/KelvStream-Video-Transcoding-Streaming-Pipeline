@@ -1,5 +1,4 @@
-point                         │ │
-│   │           child process                 │ │
+hild process                 │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│                  
 — 3
