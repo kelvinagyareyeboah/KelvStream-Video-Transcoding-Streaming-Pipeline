@@ -8,9 +8,7 @@ n                   # Server entry point + transcoding logic
 
 ---
 
-## Getting Started
-
-### Prerequisites
+#### Prerequisites
 
 Ensure the following are installed and available on your `PATH`:
 
