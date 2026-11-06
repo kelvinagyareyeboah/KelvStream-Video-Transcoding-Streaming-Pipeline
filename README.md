@@ -1,8 +1,6 @@
 ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** betwee
 | **HLS Transcoding Pipeline** | Serg encodes uploads into segmented HLS streams in rvideos |
-| **Transcoding Co* | Built-in Express UI at `lo- [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org) — component 
-- [Vite](https:- 
-- [Node.js](https://nodejs.org) + [Expres. and st**External APIs**
+| **Transcoding Co* | Built-in Express UI at `lo- [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org- [Node.js](https://nodejs.org) + [Expres. and st**Extern
 - [RapidAPI YouTube Data v3](https://rapi 
 
 ---
