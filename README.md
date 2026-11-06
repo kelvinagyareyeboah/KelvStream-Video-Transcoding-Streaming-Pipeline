@@ -3,8 +3,7 @@
 │   │   │   ├── Vide
 │   │   │   ├── Vid
 │   │   └── utils/
-│   │       └── api.js              # YouTub
-│   ├── public/            
+│   │       └── api.js         
 │   ├── .env                        # RapidAPI key (gitignored)
 │ 
 │
