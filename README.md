@@ -1,6 +1,6 @@
 ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in rvideo├── client/                         # React + TypeScr
 │   │   ├
-│   │   │   ├── Navbar/             # Glassmorphism top navigation
+│   │   │   ├── Navbar/             # Glatop navigation
 │   │   │   ├── Feed/               # Main video grid + local HLS discovery
 │   │   │   ├── VideoDetail/        # 
 │   │   │   ├── VideoCard/          # Thumbnail cards with hover animations
