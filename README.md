@@ -1,6 +1,4 @@
-nv     
-└── server/                         # Node.
-    ├── index.js                    # Server entry point + transcoding logic
+n                   # Server entry point + transcoding logic
     ├── uploads/                    # Temporary raw video storage (gitignored)
     └── transcoded/             
             ├── master.m3u8         # ABR entry point
