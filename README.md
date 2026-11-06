@@ -4,7 +4,7 @@
 │   │   │   ├── VideoCard/          # Thumbnail cards with hover ani
 │   │   └── utils/
 │   │       └── api.js              # YouTube API service layer
-│   ├── public/                     # Static 
+│   ├── public/            
 │   ├── .env                        # RapidAPI key (gitignored)
 │ 
 │
