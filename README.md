@@ -1,5 +1,4 @@
-er.
-4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** betwee
+ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** betwee
 | **HLS Transcoding Pipeline** | Serg encodes uploads into segmented HLS streams in rvideos |
 | **Transcoding Control Panel** | Built-in Express UI at `localhost:5000` for direct upload testing |
 | **Luxury Dark UI** | Glassmorphism, violet gradients, micro-animations, mobi
