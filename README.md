@@ -1,5 +1,4 @@
-ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in rvideo├── client/                         # React + TypeScr
-│   │   ├
+ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in rvideo├── client/                         # React + T
 │   │   │   ├── Navbar/             # Glatop navigation
 │   │   │   ├── Feed/               # Main video grid
 │   │   │   ├── VideoDetail/        # 
