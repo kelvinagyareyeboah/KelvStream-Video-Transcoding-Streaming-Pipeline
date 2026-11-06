@@ -6,9 +6,7 @@ point                         │ │
 3. A **master manifest** (`master.
 4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between t| Feature | Descri
 | **HLS Transcoding Pipeline** | Server-side FFmpeg encodes uploads into segmented HLS streams in real time |
-| **Adaptive Bitrate (ABR)** | Client automatically switches quality tiers based on live bandwidt| **Master M3U8 Manifest** | Single entry point enabling standards-compliant ABR switching |
-| **YouTube API Integration** | Live feed of YouTube content via RapidAPI's YouTube Data v3 wrapper |
-| **Local HLS Discovery** | Frontend auto-detects and surfaces
+| **Adaptive Bitrate (ABR)** | Client automatically switches quality tiers based on live bandwidt| **Master M3U8 Manifest** | Single entry point enabling standards-compliant ABR switchins| **Local HLS Discovery** | Frontend auto-detects and surfaces
 videos |
 | **Transcoding Control Panel** | Built-in Express UI at `localhost:5000` for direct upload testing |
 | **Luxury Dark UI** | Glassmorphism, violet gradients, micro-animations, mobile-responsive |
