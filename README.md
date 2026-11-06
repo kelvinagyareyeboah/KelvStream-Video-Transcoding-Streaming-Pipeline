@@ -1,5 +1,4 @@
-│   │   │   ├── Navb            # Glatop navigation
-│   │   │   ├── Feed/               #
+│   │   │   ├── Navb            #
 │   │   │   ├── Vide
 │   │   │   ├── Vid
 │
