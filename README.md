@@ -3,7 +3,7 @@ ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in
 │   │   │   ├── Feed/               # Main video grid
 │   │   │   ├── VideoDetail/        # 
 │   │   │   ├── VideoCard/          # Thumbnail cards with hover animations
-│   │   │   └── Sidebar/            # Category navigation
+│   │   │   └── Sidebar/           
 │   │   └── utils/
 │   │       └── api.js              # YouTube API service layer
 │   ├── public/                     # Static assets and icons
