@@ -4,7 +4,7 @@
 │   │   │   ├── Vid
 │   │   └── utils/
 │   │       └── api.js         
-│   ├── .env                        # RapidAPI key (gitignored)
+│   ├── .env                        # RapidAPI key 
 │ 
 │
 └── server/                         # Node.
