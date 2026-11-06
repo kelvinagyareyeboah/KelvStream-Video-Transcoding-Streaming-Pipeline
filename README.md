@@ -5,7 +5,7 @@
 │   │   │   └── Sidebar/           
 │   │   └── utils/
 │   │       └── api.js              # YouTube API service layer
-│   ├── public/                     # Static assets and icons
+│   ├── public/                     # Static 
 │   ├── .env                        # RapidAPI key (gitignored)
 │ 
 │
