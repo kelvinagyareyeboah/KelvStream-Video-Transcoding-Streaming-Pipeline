@@ -2,7 +2,7 @@
 │   │   │   ├── Feed/               #
 │   │   │   ├── Vide
 │   │   │   ├── Vid
-│   │   └── utils/
+│
 │   │       └── api.js         
 │   ├── .env                        # RapidAPI key 
 │ 
