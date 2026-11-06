@@ -1,8 +1,4 @@
-ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in rvideos |
-| **Transcoding Co* | Built-in Express UI at `lo- [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org- [Node.js](https://nodejs.org) + [Expres. and st**Ex
-```
-kelvstream/
-├── client/                         # React + TypeScript Frontend
+ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in rvideo├── client/                         # React + TypeScript Frontend
 │   │   ├── components/
 │   │   │   ├── Navbar/             # Glassmorphism top navigation
 │   │   │   ├── Feed/               # Main video grid + local HLS discovery
