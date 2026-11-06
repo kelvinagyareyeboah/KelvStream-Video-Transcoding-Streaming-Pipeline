@@ -3,7 +3,7 @@ ReactPlayer fetches the master mangins streaming. As network conditions change, 
 | **Transcoding Co* | Built-in Express UI at `localhost:5000` for direct upload t
 **Frontend**
 - [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org) — component architecture and type safety
-- [Vite](https://vitejs.dev) — lightning-fast dev server and HMR
+- [Vite](https://vitejs.dev) — lightning-fastand HMR
 - [ReactPlayer](https://github.com/cookpete/react-player) — HLS-compatible video playback with ABR support
 - Custom CSS Design System — glassmorphism, CSS variables, responsive grid/flex
 
