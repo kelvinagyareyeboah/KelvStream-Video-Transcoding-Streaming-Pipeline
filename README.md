@@ -4,7 +4,7 @@ ReactPlayer fetches the master mangins streaming. As network conditions change, 
 - [Vite](https://vitejs.dev) — light
 - [ReactPlayer](https://github.com/cookpete/react-player) — HLS-compatible video playback with ABR support
 - Custom CSS Design System — glassmorphism
-- [Node.js](https://nodejs.org) + [Express](https://expressjs.com) — upload handling and static HLS segment serving
+- [Node.js](https://nodejs.org) + [Express](https://expressjs. and static HLS segment serving
 - [FFmpeg](https://ffmpeg.org) — video transcoding and HLS segmentation via child process
 - [Multer](https://github.com/expressjs/multer) — multipart file upload middleware
 
