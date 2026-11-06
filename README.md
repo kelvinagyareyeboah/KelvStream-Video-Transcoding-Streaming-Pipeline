@@ -7,7 +7,7 @@
 │   │       └── api.js              # YouTube API service layer
 │   ├── public/                     # Static assets and icons
 │   ├── .env                        # RapidAPI key (gitignored)
-│   └── vite.config.ts
+│ 
 │
 └── server/                         # Node.js + Express Backend
     ├── index.js                    # Server entry point + transcoding logic
