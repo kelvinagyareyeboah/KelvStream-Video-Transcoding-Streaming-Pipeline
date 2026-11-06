@@ -4,9 +4,7 @@ point                         │ │
 │   │   720p HD Profile              360p SD Profil│                  
 — 3
 3. A **master manifest** (`master.
-4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between the 720p ---
-
-| Feature | Descri
+4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between t| Feature | Descri
 | **HLS Transcoding Pipeline** | Server-side FFmpeg encodes uploads into segmented HLS streams in real time |
 | **Adaptive Bitrate (ABR)** | Client automatically switches quality tiers based on live bandwidt| **Master M3U8 Manifest** | Single entry point enabling standards-compliant ABR switching |
 | **YouTube API Integration** | Live feed of YouTube content via RapidAPI's YouTube Data v3 wrapper |
