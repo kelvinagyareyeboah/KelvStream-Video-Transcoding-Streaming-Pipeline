@@ -3,7 +3,7 @@ point                         │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│                      │ │
 │   │                    Served from /trscoded/          
-2. FFmpeg spawns asynchronously
+2. FFmpeg spawns async
 — 360p SD — h into 6-second 
 3. A **master manifest** (`master.
 4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between the 720p ---
