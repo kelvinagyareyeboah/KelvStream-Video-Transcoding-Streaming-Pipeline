@@ -3,7 +3,7 @@
 │   │   │   ├── Vide
 │   │   │   ├── Vid
 │   │   └── utils/
-│   │       └── api.js              # YouTube API service layer
+│   │       └── api.js              # YouTub
 │   ├── public/            
 │   ├── .env                        # RapidAPI key (gitignored)
 │ 
