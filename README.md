@@ -2,7 +2,7 @@ point                         │ │
 │   │           child process                 │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│                      │ │
-│   │                    Served from /trscoded/          
+│   │                    Served from /tr
 2. FFmpeg spawns async
 — 360p SD — h i
 3. A **master manifest** (`master.
