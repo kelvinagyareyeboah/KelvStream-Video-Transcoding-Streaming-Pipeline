@@ -10,7 +10,7 @@
 └── server/                         # Node.js + Express Backend
     ├── index.js                    # Server entry point + transcoding logic
     ├── uploads/                    # Temporary raw video storage (gitignored)
-    └── transcoded/                 # HLS output: manifests + .ts segments
+    └── transcoded/             + .ts segments
         └── <video-id>/
             ├── master.m3u8         # ABR entry point
             ├── 720p.m3u8           # HD rendition playlist
