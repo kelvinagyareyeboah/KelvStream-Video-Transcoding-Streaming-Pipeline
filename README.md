@@ -1,7 +1,7 @@
 
 — 3
 3. A **master manifest** (`master.
-4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between t| Feature | Descri
+4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** betwee
 | **HLS Transcoding Pipeline** | Serg encodes uploads into segmented HLS streams in real time |
 | **Adaptive Bitrate (ABR)** | Client automatically switches quality tiers based on live bandwidt| **Master M3U8 Manifest** | Single entry point enabling standarins|
 videos |
