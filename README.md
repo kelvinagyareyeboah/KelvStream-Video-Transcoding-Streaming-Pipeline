@@ -1,5 +1,5 @@
 │   │   │   ├── Navbar/             # Glatop navigation
-│   │   │   ├── Feed/               # Main video grid
+│   │   │   ├── Feed/               #
 │   │   │   ├── Vide
 │   │   │   ├── Vid
 │   │   └── utils/
