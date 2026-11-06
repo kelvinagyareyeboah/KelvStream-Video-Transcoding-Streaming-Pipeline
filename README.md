@@ -2,9 +2,7 @@ ReactPlayer fetches the master mangins streaming. As network conditions change, 
 | **HLS Transcoding Pipeline** | Serg encodes uploads into segmented HLS streams in rvideos |
 | **Transcoding Co* | Built-in Express UI at `lo- [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org) — component 
 - [Vite](https:- Custom CSS De
-- [Node.js](https://nodejs.org) + [Expres. and static HLS
-- [FFmpeg](https://ffmpeg.org) — video transcoding a via child proce
-**External APIs**
+- [Node.js](https://nodejs.org) + [Expres. and st**External APIs**
 - [RapidAPI YouTube Data v3](https://rapidapi.com) — remote video feed
 
 ---
