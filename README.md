@@ -3,7 +3,7 @@ ReactPlayer fetches the master mangins streaming. As network conditions change, 
 | **Transcoding Co* | Built-in Express UI at `lo- [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org) — component architecture and type safety
 - [Vite](https:- Custom CSS Design Sys
 - [Node.js](https://nodejs.org) + [Expres. and static HLS segment serving
-- [FFmpeg](https://ffmpeg.org) — video transcoding and HLS segmentation via child process
+- [FFmpeg](https://ffmpeg.org) — video transcoding a via child process
 - [Multer](https://github.com/expressjs/multer) — multipart file upload middleware
 
 **External APIs**
