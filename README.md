@@ -1,7 +1,7 @@
 │   │   │   ├── Navbar/             # Glatop navigation
 │   │   │   ├── Feed/               # Main video grid
 │   │   │   ├── Vide
-│   │   │   ├── VideoCard/          # Thumbnail cards
+│   │   │   ├── Vid
 │   │   └── utils/
 │   │       └── api.js              # YouTube API service layer
 │   ├── public/            
