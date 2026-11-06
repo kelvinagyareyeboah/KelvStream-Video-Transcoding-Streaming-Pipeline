@@ -1,9 +1,7 @@
 ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** betwee
 | **HLS Transcoding Pipeline** | Serg encodes uploads into segmented HLS streams in rvideos |
 | **Transcoding Co* | Built-in Express UI at `lo- [React 18](https://react.dev) + [TypeScript](https://typescriptlang.org) — component architecture and type safety
-- [Vite](https://vit
-- [ReactPlayer](https://github.com/cookpete/react-player) — HLS-compatible video playback with ABR support
-- Custom CSS Design Sys
+- [Vite](https:- Custom CSS Design Sys
 - [Node.js](https://nodejs.org) + [Expres. and static HLS segment serving
 - [FFmpeg](https://ffmpeg.org) — video transcoding and HLS segmentation via child process
 - [Multer](https://github.com/expressjs/multer) — multipart file upload middleware
