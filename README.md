@@ -4,8 +4,7 @@ nv                        # RapidAPI key
 └── server/                         # Node.
     ├── index.js                    # Server entry point + transcoding logic
     ├── uploads/                    # Temporary raw video storage (gitignored)
-    └── transcoded/             + .ts segments
-        └─
+    └── transcoded/             
             ├── master.m3u8         # ABR entry point
             # HD rendition playlist
             ├── 360p.m3u8           # SD rendition playlist
