@@ -7,7 +7,7 @@ nv                        # RapidAPI key
     └── transcoded/             + .ts segments
         └── <video-id>/
             ├── master.m3u8         # ABR entry point
-            ├── 720p.m3u8           # HD rendition playlist
+            # HD rendition playlist
             ├── 360p.m3u8           # SD rendition playlist
             └── *.ts                # 6-second media segments
 ```
