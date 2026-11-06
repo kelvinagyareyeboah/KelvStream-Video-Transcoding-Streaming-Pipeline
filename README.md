@@ -1,6 +1,4 @@
-
-│   │       └── api.js         
-│   ├── .env                        # RapidAPI key 
+nv                        # RapidAPI key 
 │ 
 │
 └── server/                         # Node.
