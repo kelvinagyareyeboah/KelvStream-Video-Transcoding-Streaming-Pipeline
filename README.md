@@ -7,7 +7,7 @@
 │   ├── .env                        # RapidAPI key (gitignored)
 │ 
 │
-└── server/                         # Node.js + Express Backend
+└── server/                         # Node.
     ├── index.js                    # Server entry point + transcoding logic
     ├── uploads/                    # Temporary raw video storage (gitignored)
     └── transcoded/             + .ts segments
