@@ -1,6 +1,4 @@
-│   │ Vide
-│   │   │   ├── Vid
-│
+
 │   │       └── api.js         
 │   ├── .env                        # RapidAPI key 
 │ 
