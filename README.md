@@ -1,8 +1,7 @@
 │   │   │   ├── Navbar/             # Glatop navigation
 │   │   │   ├── Feed/               # Main video grid
 │   │   │   ├── Vide
-│   │   │   ├── VideoCard/          # Thumbnail cards with hover animations
-│   │   │   └── Sidebar/           
+│   │   │   ├── VideoCard/          # Thumbnail cards with hover ani
 │   │   └── utils/
 │   │       └── api.js              # YouTube API service layer
 │   ├── public/                     # Static 
