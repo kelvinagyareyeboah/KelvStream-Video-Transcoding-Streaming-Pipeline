@@ -7,7 +7,7 @@ ReactPlayer fetches the master mangins streaming. As network conditions change, 
 
 ---
 
-## Project Structure
+## 
 
 ```
 kelvstream/
