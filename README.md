@@ -8,8 +8,6 @@ point                         │ │
 3. A **master manifest** (`master.
 4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between the 720p ---
 
-## Feature Highlights
-
 | Feature | Description |
 |---|---|
 | **HLS Transcoding Pipeline** | Server-side FFmpeg encodes uploads into segmented HLS streams in real time |
