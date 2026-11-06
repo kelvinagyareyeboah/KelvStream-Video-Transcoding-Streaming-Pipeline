@@ -2,8 +2,7 @@ point                         │ │
 │   │           child process                 │ │
 │   │                        │                                        ▼                   │ │
 │   │   720p HD Profile              360p SD Profil│                      │ │
-│   │                    Served from /tr
-2. 
+│   │                    S
 — 3
 3. A **master manifest** (`master.
 4. The Re5. ReactPlayer fetches the master mangins streaming. As network conditions change, it **automatically switches** between the 720p ---
