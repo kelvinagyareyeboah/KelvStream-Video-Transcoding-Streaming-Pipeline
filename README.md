@@ -3,7 +3,6 @@ ReactPlayer fing Pipeline** | Serg encodes uploads into segmented HLS streams in
 ```
 kelvstream/
 ├── client/                         # React + TypeScript Frontend
-│   ├── src/
 │   │   ├── components/
 │   │   │   ├── Navbar/             # Glassmorphism top navigation
 │   │   │   ├── Feed/               # Main video grid + local HLS discovery
