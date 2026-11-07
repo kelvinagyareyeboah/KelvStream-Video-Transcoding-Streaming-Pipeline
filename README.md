@@ -1,7 +1,7 @@
 
             # HD rendition playlist
             ├── 360p.m3u8         pla#
-| Dependency | Version | Instal
+| Dependency | Vers
 | Yarn | Latest | `npm i
 ```bash
 brew ins
