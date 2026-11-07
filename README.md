@@ -2,9 +2,7 @@
 | Dependen
 winget install Gyaf### Step 1 — Start the Transcodi
 ### Step 2 — Configure a
-Create a `.env` file in the `cl
-VITE_REACT_APP_RA
-```
+Create a `.env` file ```
 
 > **Get a key:** Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free tier available).
 
