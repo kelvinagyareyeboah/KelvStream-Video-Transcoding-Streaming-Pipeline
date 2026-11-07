@@ -5,10 +5,7 @@ n
 
 ---
 
-#### Prerequisites
-
-Ensure the following are installed and available on your `PATH`:
-
+#### Prerequisite
 | Dependency | Version | Install |
 |---|---|---|
 | Node.js | v16+ | [nodejs.org](https://nodejs.org) |
