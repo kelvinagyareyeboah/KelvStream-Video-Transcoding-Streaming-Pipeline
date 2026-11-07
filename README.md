@@ -1,8 +1,7 @@
 
             # HD rendition playlist
             ├── 360p.m3u8         pla#
-| Dependency | Version | Install |
-| Node.js |
+| Dependency | Version | Instal
 | Yarn | Latest | `npm insta
 
 
