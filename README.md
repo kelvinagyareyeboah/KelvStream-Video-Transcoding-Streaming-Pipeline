@@ -1,7 +1,7 @@
 n                 
             ├── master.m3u8         # ABR entry point
             # HD rendition playlist
-            ├── 360p.m3u8         pla# 6-second
+            ├── 360p.m3u8         pla#
 | Dependency | Version | Install |
 | Node.js | v16+ | [nodejs.org
 | Yarn | Latest | `npm install -g ya
