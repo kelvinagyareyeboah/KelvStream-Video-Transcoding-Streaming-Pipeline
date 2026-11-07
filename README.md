@@ -4,7 +4,6 @@
 | Dependency | Version | Instal
 | Yarn | Latest | `npm i
 ```bash
-# macOS
 brew ins
 # Windows (winget)
 winget install Gyan.FFmpeg
