@@ -4,7 +4,6 @@
 | Dependency | Version | Install |
 | Node.js |
 | Yarn | Latest | `npm insta
-| FFmpeg
 
 
 ```bash
