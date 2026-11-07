@@ -4,7 +4,7 @@ winget install Gyaf### Step 1 — Start the Transcodi
 ### Step 2 — Configure and Start thcd client
 yarn i
 
-Create a `.env` file in the `client/` directory:
+Create a `.env` file in the `client/` dir
 
 ```env
 # client/.env
