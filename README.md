@@ -2,8 +2,7 @@
             # HD rendition playlist
             ├── 360p.m3u8         pla#
 | Dependency | Vers
-| Yarn | Latest | `npm i
-``
+| Yarn | Latest 
 # Wind
 winget install Gyan.FFmpeg
 # Then add C:\ffmpeg\bin to System Environment Variables → PATH
