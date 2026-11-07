@@ -1,5 +1,4 @@
-
-winget install Gyaf### Step 1 — Start the Transcodi
+p 1 — Start the Transcodi
 ### Step 2 — Conure a
 Create a `.en> key:** Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
 
