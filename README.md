@@ -5,7 +5,7 @@ n
 | Dependency | Version | Install |
 | Node.js | v16+ | [
 | Yarn | Latest | `npm insta
-| FFmpeg | Any re
+| FFmpeg
 
 **Installing FF
 
