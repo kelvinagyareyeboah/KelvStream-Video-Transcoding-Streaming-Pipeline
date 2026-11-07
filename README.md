@@ -1,6 +1,6 @@
 
 winget install Gyaf### Step 1 — Start the Transcodi
-### Step 2 — Configure a
+### Step 2 — Conure a
 Create a `.en> **Get a key:** Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
 
 Open **`http://localhost:5173`** in your browser.
