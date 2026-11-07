@@ -1,9 +1,7 @@
 8         pla#
 | Dependen
 winget install Gyan
-# Then add C:\
-# U
-s
+# Then add C:
 # Veri
 ff
 ```
