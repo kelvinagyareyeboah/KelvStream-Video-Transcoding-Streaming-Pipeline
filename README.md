@@ -4,7 +4,7 @@ n
             ├── 360p.m3u8         pla#
 | Dependency | Version | Install |
 | Node.js | v16+ | [
-| Yarn | Latest | `npm install -g ya
+| Yarn | Latest | `npm insta
 | FFmpeg | Any re
 
 **Installing FF
