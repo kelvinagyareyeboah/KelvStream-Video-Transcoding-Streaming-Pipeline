@@ -1,9 +1,6 @@
 8         pla#
 | Dependen
-winget install Gyan
-
-# Veri
-ff
+winget install Gyaff
 ```
 
 ---
