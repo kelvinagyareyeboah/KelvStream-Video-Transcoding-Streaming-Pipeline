@@ -1,9 +1,7 @@
 8         pla#
 | Dependen
 winget install Gyaf### Step 1 — Start the Transcoding Serv
-npmThe server starts at **`http://localhost:5000`** and exposes:
-- `POST /upload` — accepts `.mp4`, transcodes to HLS via FFs
-- 
+npmThe server starts at **`http://localhost:5000`** and expose- 
 ---
 
 ### Step 2 — Configure and Start the Frontend
