@@ -5,7 +5,7 @@ npmThe server starts at **`http://localhost:5000`** and exposes:
 - `POST /upload` — accepts `.mp4`, transcodes to HLS via FFmpeg
 - `GET /transcoded/:id/master.m3u8` — serves master manifest
 - `GET /transcoded/:id/*.ts` — serves media segments
-- Control Panel UI — upload interface for direct testing
+- Control Panel UI — upload int testing
 
 ---
 
