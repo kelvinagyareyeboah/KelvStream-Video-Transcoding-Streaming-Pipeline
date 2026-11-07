@@ -4,7 +4,7 @@
 | Dependency | Vers
 | Yarn | Latest | `npm i
 ``
-# Windows (winget)
+# Wind
 winget install Gyan.FFmpeg
 # Then add C:\ffmpeg\bin to System Environment Variables → PATH
 
