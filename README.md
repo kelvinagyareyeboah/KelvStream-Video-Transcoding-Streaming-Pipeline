@@ -2,9 +2,7 @@
             # HD rendition playlist
             ├── 360p.m3u8         pla#
 | Dependency | Version | Instal
-| Yarn | Latest | `npm insta
-
-
+| Yarn | Latest | `npm i
 ```bash
 # macOS
 brew ins
