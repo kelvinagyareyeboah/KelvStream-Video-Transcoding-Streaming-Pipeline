@@ -1,8 +1,7 @@
 
             # HD rendition playlist
             ├── 360p.m3u8         pla#
-| Dependenc
-| Yarn 
+| Dependen
 winget install Gyan
 # Then add C:\ffmpeg\bin
 # Ub
