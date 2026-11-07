@@ -7,7 +7,7 @@ n
 | Yarn | Latest | `npm install -g ya
 | FFmpeg | Any re
 
-**Installing FFmpeg:**
+**Installing FF
 
 ```bash
 # macOS
