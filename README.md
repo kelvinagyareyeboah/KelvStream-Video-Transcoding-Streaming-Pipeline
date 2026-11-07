@@ -3,8 +3,7 @@
             ├── 360p.m3u8         pla#
 | Dependency | Vers
 | Yarn | Latest | `npm i
-```bash
-brew ins
+``
 # Windows (winget)
 winget install Gyan.FFmpeg
 # Then add C:\ffmpeg\bin to System Environment Variables → PATH
