@@ -1,7 +1,7 @@
 8         pla#
 | Dependen
 winget install Gyan
-# Then add C:\ffmpeg\bin
+# Then add C:\
 # U
 sudo apt 
 # Verify instal
