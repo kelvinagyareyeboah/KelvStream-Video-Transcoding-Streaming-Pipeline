@@ -1,7 +1,7 @@
 8         pla#
 | Dependen
 winget install Gyaf### Step 1 — Start the Transcodi
-### Step 2 — Configure and Start thcd
+### Step 2 — Configure a
 Create a `.env` file in the `client/` dir
 
 ```env
