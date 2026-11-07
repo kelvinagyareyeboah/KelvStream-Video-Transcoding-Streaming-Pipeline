@@ -4,8 +4,7 @@
 | Dependenc
 | Yarn | Late
 winget install Gyan
-# Then add C:\ffmpeg\bin to System E
-
+# Then add C:\ffmpeg\bin to Sys
 # Ubuntu /
 sudo apt update && sudo apt
 # Verify installation
