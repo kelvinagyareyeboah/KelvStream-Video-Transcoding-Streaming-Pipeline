@@ -4,7 +4,7 @@
 | Dependency | Vers
 | Yarn | Latest 
 # Wind
-winget install Gyan.FFmpeg
+winget install Gyan
 # Then add C:\ffmpeg\bin to System Environment Variables → PATH
 
 # Ubuntu / Debian
