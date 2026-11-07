@@ -7,8 +7,7 @@ winget install Gyan
 # Then add C:\ffmpeg\bin to System Environment Var
 
 # Ubuntu / Debian
-sudo apt update && sudo apt install ffmpeg
-
+sudo apt update && sudo apt instal
 # Verify installation
 ffmpeg -version
 ```
