@@ -8,8 +8,7 @@ npmThe server starts at **`http://localhost:5000`** and expose-
 
 ```bash
 cd client
-yarn install
-```
+yarn i
 
 Create a `.env` file in the `client/` directory:
 
