@@ -4,7 +4,7 @@ winget install Gyan
 # Then add C:\
 # U
 s
-# Verify instal
+# Veri
 ff
 ```
 
