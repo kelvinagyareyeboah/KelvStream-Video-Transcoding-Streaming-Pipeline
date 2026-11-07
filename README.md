@@ -1,11 +1,6 @@
 8         pla#
 | Dependen
-winget install Gyaff
-```
-
----
-
-### Step 1 — Start the Transcoding Server
+winget install Gyaf### Step 1 — Start the Transcoding Server
 
 ```bash
 cd server
