@@ -5,7 +5,7 @@ winget install Gyan
 # U
 sudo apt update && 
 # Verify instal
-ffmpeg -version
+ff
 ```
 
 ---
