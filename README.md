@@ -5,7 +5,7 @@
 | Yarn | Latest 
 # Wind
 winget install Gyan
-# Then add C:\ffmpeg\bin to System Environment Variables → PATH
+# Then add C:\ffmpeg\bin to System Environment Var
 
 # Ubuntu / Debian
 sudo apt update && sudo apt install ffmpeg
