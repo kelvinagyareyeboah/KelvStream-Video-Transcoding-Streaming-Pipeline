@@ -3,7 +3,7 @@ n
             # HD rendition playlist
             ├── 360p.m3u8         pla#
 | Dependency | Version | Install |
-| Node.js | v16+ | [
+| Node.js |
 | Yarn | Latest | `npm insta
 | FFmpeg
 
