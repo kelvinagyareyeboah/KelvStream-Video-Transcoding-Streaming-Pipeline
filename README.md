@@ -1,8 +1,6 @@
 8         pla#
 | Dependen
-winget install Gyaf### Step 1 — Start the Transcoding Server
-
-npm install
+winget install Gyaf### Step 1 — Start the Transcoding Serv
 npm start
 ```
 
