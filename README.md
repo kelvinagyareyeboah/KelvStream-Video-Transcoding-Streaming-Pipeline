@@ -1,5 +1,4 @@
-n                 
-            ├── master.m3u8         # ABR entry point
+n          m3u8         # ABR entry point
             # HD rendition playlist
             ├── 360p.m3u8         pla#
 | Dependency | Version | Install |
