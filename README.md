@@ -2,8 +2,6 @@
 | Dependen
 winget install Gyaf### Step 1 — Start the Transcoding Server
 
-```bash
-cd server
 npm install
 npm start
 ```
