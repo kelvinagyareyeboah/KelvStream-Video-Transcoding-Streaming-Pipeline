@@ -1,8 +1,7 @@
 8         pla#
 | Dependen
 winget install Gyaf### Step 1 — Start the Transcoding Serv
-npmThe server starts at **`http://localhost:5000`** and expose- 
----
+npmThe server starts at **`http://localhost:5000`** an
 
 ### Step 2 — Configure and Start thcd client
 yarn i
