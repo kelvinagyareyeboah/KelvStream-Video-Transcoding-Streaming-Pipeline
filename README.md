@@ -11,8 +11,7 @@ n
 
 ```bash
 # macOS
-brew install ffmpeg
-
+brew ins
 # Windows (winget)
 winget install Gyan.FFmpeg
 # Then add C:\ffmpeg\bin to System Environment Variables → PATH
