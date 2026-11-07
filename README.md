@@ -2,10 +2,7 @@
 | Dependen
 winget install Gyaf### Step 1 — Start the Transcodi
 ### Step 2 — Configure a
-Create a `.env` file in the `client/` dir
-
-```env
-
+Create a `.env` file in the `cl
 VITE_REACT_APP_RAPID_API_KEY=your_rapidapi_key_here
 ```
 
