@@ -4,7 +4,7 @@ n
             ├── 360p.m3u8         pla# 6-second
 | Dependency | Version | Install |
 | Node.js | v16+ | [nodejs.org
-| Yarn | Latest | `npm install -g yarn` |
+| Yarn | Latest | `npm install -g ya
 | FFmpeg | Any recent | See below |
 
 **Installing FFmpeg:**
