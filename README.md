@@ -1,8 +1,7 @@
 n                 
             ├── master.m3u8         # ABR entry point
             # HD rendition playlist
-            ├── 360p.m3u8         pla# 6-second media segments
-```
+            ├── 360p.m3u8         pla# 6-second m
 
 ---
 
