@@ -3,7 +3,7 @@
 winget install Gyan
 # Then add C:\
 # U
-sudo apt 
+s
 # Verify instal
 ff
 ```
