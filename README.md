@@ -6,7 +6,7 @@
 | Yarn | Latest | `npm insta
 | FFmpeg
 
-**Installing FF
+**Ins
 
 ```bash
 # macOS
