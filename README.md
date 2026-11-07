@@ -4,10 +4,7 @@ winget install Gyaf### Step 1 — Start the Transcoding Serv
 npmThe server starts at **`http://localhost:5000`** and expose- 
 ---
 
-### Step 2 — Configure and Start the Frontend
-
-```bash
-cd client
+### Step 2 — Configure and Start thcd client
 yarn i
 
 Create a `.env` file in the `client/` directory:
