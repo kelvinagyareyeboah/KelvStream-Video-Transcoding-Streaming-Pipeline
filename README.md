@@ -1,7 +1,7 @@
 
             # HD rendition playlist
             ├── 360p.m3u8         pla#
-| Dependency | Vers
+| Dependenc
 | Yarn | Late
 winget install Gyan
 # Then add C:\ffmpeg\bin to System E
