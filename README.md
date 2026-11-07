@@ -5,7 +5,7 @@ n
 | Dependency | Version | Install |
 | Node.js | v16+ | [nodejs.org
 | Yarn | Latest | `npm install -g ya
-| FFmpeg | Any recent | Se
+| FFmpeg | Any re
 
 **Installing FFmpeg:**
 
