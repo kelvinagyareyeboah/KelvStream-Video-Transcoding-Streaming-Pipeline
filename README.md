@@ -1,6 +1,6 @@
 p 1 — Start todi
-### Step Conure a
-Creat> key:** Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
+### Step 
+Creat> key Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
 
 Open **`http://localhost:5173`** in your browser.
 
