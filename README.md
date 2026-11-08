@@ -1,6 +1,5 @@
 select any `. fr
-,  names, and view counts — identical to 
----
+,  names, and view 
 
 ## Design System
 
