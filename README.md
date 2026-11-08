@@ -1,8 +1,7 @@
 select any `. 
 | `--accent-violet` 
 - ansla + 
-- Play overlay ient mask
-- Upload 
+- Play 
   
 
 ## 
