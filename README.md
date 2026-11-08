@@ -1,5 +1,5 @@
 select any `. from
-Tube dAPI. Videos load with thumbnails, titles,  names, and view counts — identical to the remote video player experience.
+d with thumbnails, titles,  names, and view counts — identical to the remote video player experience.
 
 ---
 
