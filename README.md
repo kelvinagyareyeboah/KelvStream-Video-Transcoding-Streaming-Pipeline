@@ -3,7 +3,7 @@ select any `.
 | `--accent-pink`  glow ,255,255,0.05)` | Glassmorphism |
 | lur(20px)` | Navbar and 
 
-- Video card hover → `translateY(-4px)` + violet border glow
+- Video card hover → `translateY(-4px)` + 
 - Play overlay → opacity transition with radial gradient mask
 - Upload in progress → pulsating pipeline loader animation
 
