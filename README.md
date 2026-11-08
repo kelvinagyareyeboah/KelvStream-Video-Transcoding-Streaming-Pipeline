@@ -3,11 +3,11 @@ select any `. fr
 
 ## Design System
 
-KelvStream's stem — no component framework.
+KelvStream's stem no component framework.
 
 | Token | Value | Usage |
 |---|---|---|
-| `--bg-primary` | `#0a0a0f` | Deep obsidian page background |
+| `--bg-primary` | |
 | `--accent-violet` | `#7c3aed` | Primary CTA, gradients, borders |
 | `--accent-pink` | `#c084fc` | Highlights, hover states, neon glow |
 | `--glass-bg` | `rgba(255,255,255,0.05)` | Glassmorphism card backgrounds |
