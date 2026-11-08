@@ -1,5 +1,5 @@
 p 1 
-Creat> keubscrito the **YouTube (free
+Creat> keubsche **YouTube (free
 
 Open **`http://localhost:5173`** in your browser.
 
