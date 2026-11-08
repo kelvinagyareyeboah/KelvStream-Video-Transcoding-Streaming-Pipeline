@@ -1,6 +1,5 @@
 select any `. 
-| `--accent-violet` | `#7c3aed` | 255,0.05)` 
-| lur(20px)` |r and 
+| `--accent-violet` | `#7c3aed` | 
 
 - anslateY(-4px)` + 
 - Play overlay → tion with radial gradient mask
