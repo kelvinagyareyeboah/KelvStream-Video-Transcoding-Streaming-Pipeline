@@ -2,7 +2,7 @@ select any `.
 | `--accent-violet` | `#7c3aed` | Primary |
 | `--accent-pink`  glow ,255,255,0.05)` | Glassmorphism |
 | lur(20px)` | Navbar and 
-**Micro-interactions:**
+
 - Video card hover → `translateY(-4px)` + violet border glow
 - Play overlay → opacity transition with radial gradient mask
 - Upload in progress → pulsating pipeline loader animation
