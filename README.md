@@ -1,6 +1,6 @@
 
 
-localhost:5173`** in your browser.
+lo:5173`** in your browser.
 
 ---
 
