@@ -5,7 +5,7 @@ Tube dAPI. Videos load with thumbnails, titles, channel names, and view counts �
 
 ## Design System
 
-KelvStream's UI is built on a custom design token system — no component framework.
+KelvStream's stem — no component framework.
 
 | Token | Value | Usage |
 |---|---|---|
