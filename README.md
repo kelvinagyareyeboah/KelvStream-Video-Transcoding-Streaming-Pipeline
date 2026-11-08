@@ -3,7 +3,7 @@ select any `.
 | lur(20px)` |r and 
 
 - anslateY(-4px)` + 
-- Play overlay → opacity transition with radial gradient mask
+- Play overlay → tion with radial gradient mask
 - Upload in progress → pulsating pipeline loader animation
 
 ---
