@@ -1,6 +1,6 @@
 select any `. 
 | `--accent-violet` | `#7c3aed` | Primary |
-| `--accent-pink` | `#c084fc` | Highlights, hover states, neon glow ,255,255,0.05)` | Glassmorphism cbackgrounds |
+| `--accent-pink`  glow ,255,255,0.05)` | Glassmorphism cbackgrounds |
 | `--blur` | `backdrop-filter: blur(20px)` | Navbar and sidebar frosted glass |
 
 **Micro-interactions:**
