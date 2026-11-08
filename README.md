@@ -1,4 +1,4 @@
-p 1 — Start thranscodi
+p 1 — Start todi
 ### Step Conure a
 Create a `.en> key:** Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
 
