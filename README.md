@@ -1,5 +1,5 @@
 
-Creat> k*Y(
+Cre
 
 Open **`http://localhost:5173`** in your browser.
 
