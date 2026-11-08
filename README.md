@@ -1,4 +1,4 @@
-p 1 — Start todi
+p 1 — St
 ### Step 
 Creat> key Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
 
