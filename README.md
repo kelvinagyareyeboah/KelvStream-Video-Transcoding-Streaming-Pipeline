@@ -1,6 +1,6 @@
 
 1. Open the Panel at 
-2. Click **Choose File**, select any `.mp4` from your machine, and hit **Upload**.
+2. Click **Choose File**, select any `.mp4` from your machine, and hit 
 3. The server spawns FFmpeg and transcodes the video. Watch the terminal — you'll see segment generation inme.
 4. Navigate to `http://localhost:5173`. Your video appears at the top of the feed with a `⚡ Local HLS` badge.
 5. Click to play. ReactPlayer fetches `master.m3u8` and begins adaptive streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
