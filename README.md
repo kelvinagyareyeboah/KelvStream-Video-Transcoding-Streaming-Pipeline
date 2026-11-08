@@ -1,9 +1,7 @@
 select any `. fr
 ,  names, and view 
 
-## Design System
-
-KelvStream's stem no component framework.
+## ramework.
 
 | Token | Value | Usage |
 |---|---|---|
