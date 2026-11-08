@@ -1,5 +1,5 @@
 p 1 
-Creat> keubsche **YouTube (free
+Creat> keubsche **YouTube (
 
 Open **`http://localhost:5173`** in your browser.
 
