@@ -3,8 +3,7 @@ select any `.
 
 - anslateY(-4px)` + 
 - Play overlay → tion with radial gradient mask
-- Upload in progress → pulsating pipeline loader animation
-
+- Upload in progress → pulsating pipeline 
 ---
 
 ## API Reference
