@@ -1,6 +1,6 @@
 select any `. from
 video appears at the aHLS` badge.
- streaming. Throttle your network in DevTools → Network to observe 0p and 360p.
+ streaming. Throttle your network in rve 0p and 360p.
 
 ### Browsing YouTube Content
 
