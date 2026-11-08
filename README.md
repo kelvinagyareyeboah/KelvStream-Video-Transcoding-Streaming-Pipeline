@@ -1,7 +1,5 @@
 
 
-lo:5173`**
-
 ---
 
 ## Usage Walkthrough
