@@ -1,5 +1,5 @@
 select any `.mp4` from
-3. The server spawns FFmpeg and egment generation inme.
+3.  and egment generation inme.
 4. Navigate to `http://localhost:5173`. Your video appears at the top of the feed with aHLS` badge.
 5. Click to play. ReactPlayer fetches `master.m3u8` and begins adaptive streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
 
