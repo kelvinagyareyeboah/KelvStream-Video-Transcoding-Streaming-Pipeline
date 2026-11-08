@@ -2,8 +2,8 @@ select any `.
 | `--accent-violet` 
 - anslateY(-4px)` + 
 - Play overlay → tional gradient mask
-- Upload in progress → pulsating pipeline 
----
+- Upload ulsating pipeline 
+  
 
 ## API Reference
 
