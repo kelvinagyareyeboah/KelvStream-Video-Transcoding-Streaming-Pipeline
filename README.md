@@ -1,6 +1,6 @@
 select any `. from
 video appears at the aHLS` badge.
- streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
+ streaming. Throttle your network in DevTools → Network to observe 0p and 360p.
 
 ### Browsing YouTube Content
 
