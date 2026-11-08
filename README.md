@@ -1,6 +1,6 @@
 p 1 — St
 ### Step 
-Creat> key  up ad subscribe to the **YouTube (free
+Creat> keubscribe to the **YouTube (free
 
 Open **`http://localhost:5173`** in your browser.
 
