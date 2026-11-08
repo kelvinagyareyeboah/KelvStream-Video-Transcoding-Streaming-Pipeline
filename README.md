@@ -1,6 +1,5 @@
 select any `. 
-| `--accent-violet` | `#7c3aed` | 
-
+| `--accent-violet` 
 - anslateY(-4px)` + 
 - Play overlay → tion with radial gradient mask
 - Upload in progress → pulsating pipeline 
