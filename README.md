@@ -1,5 +1,5 @@
-select any `.mp4` from
-3.  and eg generation r video appears at the aHLS` badge.
+select any `. from
+video appears at the aHLS` badge.
  streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
 
 ### Browsing YouTube Content
