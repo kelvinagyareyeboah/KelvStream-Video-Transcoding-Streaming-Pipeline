@@ -1,5 +1,5 @@
 
-Creat> keubsche **YouTube (
+Creat> k*YouTube (
 
 Open **`http://localhost:5173`** in your browser.
 
