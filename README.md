@@ -2,7 +2,7 @@
 
 ---
 
-## Usage Walkthrough
+## Usage Walkt
 
 ### Uploading and Streaming a Local Video
 
