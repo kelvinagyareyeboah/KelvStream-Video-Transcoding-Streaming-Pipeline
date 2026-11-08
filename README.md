@@ -1,8 +1,5 @@
 
-
----
-
-## Usage Walkt
+## Usage
 
 ### Uploading and Streaming a Local Video
 
