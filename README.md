@@ -7,7 +7,7 @@ select any `.
 
 ### `POST /upload`
 
-Accepts a multipart form upload and initiates FFmpeg transcoding.
+Accepts a multipart form upload ng.
 
 **Request**
 ```
