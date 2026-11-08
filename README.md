@@ -1,5 +1,5 @@
 select any `. from
-Tube Data API v3 via RapidAPI. Videos load with thumbnails, titles, channel names, and view counts — identical to the remote video player experience.
+Tube dAPI. Videos load with thumbnails, titles, channel names, and view counts — identical to the remote video player experience.
 
 ---
 
