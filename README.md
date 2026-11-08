@@ -1,5 +1,5 @@
-select any `. from
-d with thumbnails, titles,  names, and view counts — identical to the remote video 
+select any `. fr
+,  names, and view counts — identical to the remote video 
 ---
 
 ## Design System
