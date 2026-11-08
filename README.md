@@ -1,7 +1,7 @@
 
 ## Usage
 
-### Uploading and Streaming a Local Video
+### Streaming a Local Video
 
 1. Open the Control Panel at `http://localhost:5000`.
 2. Click **Choose File**, select any `.mp4` from your machine, and hit **Upload**.
