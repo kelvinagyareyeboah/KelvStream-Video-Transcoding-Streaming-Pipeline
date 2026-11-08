@@ -1,6 +1,6 @@
 select any `. 
 | `--accent-violet` 
-- anslateY(-4px)` + 
+- ansla + 
 - Play overlay → tional gradient mask
 - Upload ulsating pipeline 
   
