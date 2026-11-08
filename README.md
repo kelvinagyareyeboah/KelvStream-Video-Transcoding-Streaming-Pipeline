@@ -1,6 +1,5 @@
-p 1 — St
-### Step 
-Creat> keubscribe to the **YouTube (free
+p 1 
+Creat> keubscrito the **YouTube (free
 
 Open **`http://localhost:5173`** in your browser.
 
