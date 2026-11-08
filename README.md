@@ -1,6 +1,5 @@
 select any `. from
-video appearsthe aHLS`our network in rve 0p and 360p.
-
+video appearsthe aHLS`our network in rve 
 e Co
 The main feed is populated by the YouTube Data API v3 via RapidAPI. Videos load with thumbnails, titles, channel names, and view counts — identical to the remote video player experience.
 
