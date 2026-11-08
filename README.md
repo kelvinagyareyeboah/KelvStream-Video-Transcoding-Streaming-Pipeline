@@ -1,5 +1,5 @@
 p 1 — Start thranscodi
-### Step 2 — Conure a
+### Step Conure a
 Create a `.en> key:** Sign up at [rapidapi.com](https://rapidapi.com) and subscribe to the **YouTube v3** API (free
 
 Open **`http://localhost:5173`** in your browser.
