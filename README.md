@@ -3,8 +3,8 @@ select any `. fr
 
 
 
-| Token | Value | 
-| `--accent-violet` | `#7c3aed` | Primary CTA, gradients, borders |
+| Token | Value
+| `--accent-violet` | `#7c3aed` | Primary |
 | `--accent-pink` | `#c084fc` | Highlights, hover states, neon glow |
 | `--glass-bg` | `rgba(255,255,255,0.05)` | Glassmorphism card backgrounds |
 | `--blur` | `backdrop-filter: blur(20px)` | Navbar and sidebar frosted glass |
