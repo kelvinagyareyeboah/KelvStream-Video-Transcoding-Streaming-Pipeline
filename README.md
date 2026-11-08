@@ -1,6 +1,6 @@
 
 ## Us
-###  Video
+
 
 1. Open the Control Panel at `http://:5000`.
 2. Click **Choose File**, select any `.mp4` from your machine, and hit **Upload**.
