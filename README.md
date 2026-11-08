@@ -3,9 +3,7 @@ select any `. fr
 
 ## ramework.
 
-| Token | Value | Usage |
-|---|---|---|
-| `--bg-primary` | |
+| Token | Value | 
 | `--accent-violet` | `#7c3aed` | Primary CTA, gradients, borders |
 | `--accent-pink` | `#c084fc` | Highlights, hover states, neon glow |
 | `--glass-bg` | `rgba(255,255,255,0.05)` | Glassmorphism card backgrounds |
