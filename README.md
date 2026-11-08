@@ -1,7 +1,7 @@
 select any `. 
 | `--accent-violet` 
 - anslateY(-4px)` + 
-- Play overlay → tion with radial gradient mask
+- Play overlay → tional gradient mask
 - Upload in progress → pulsating pipeline 
 ---
 
