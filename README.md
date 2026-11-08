@@ -1,5 +1,5 @@
 select any `. fr
-,  names, and view counts — identical to the remote video 
+,  names, and view counts — identical to 
 ---
 
 ## Design System
