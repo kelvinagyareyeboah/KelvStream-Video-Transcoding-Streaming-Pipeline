@@ -1,7 +1,7 @@
 select any `. fr
 ,  names, and view 
 
-## ramework.
+
 
 | Token | Value | 
 | `--accent-violet` | `#7c3aed` | Primary CTA, gradients, borders |
