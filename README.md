@@ -1,9 +1,9 @@
 select any `. 
 | `--accent-violet` | `#7c3aed` | Primary |
 | `--accent-pink`  glow ,255,255,0.05)` | Glassmorphism |
-| lur(20px)` | Navbar and 
+| lur(20px)` |r and 
 
-- Video card hover → `translateY(-4px)` + 
+- anslateY(-4px)` + 
 - Play overlay → opacity transition with radial gradient mask
 - Upload in progress → pulsating pipeline loader animation
 
