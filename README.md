@@ -2,7 +2,7 @@
 ## Us
 ###  Video
 
-1. Open the Control Panel at `http://localhost:5000`.
+1. Open the Control Panel at `http://:5000`.
 2. Click **Choose File**, select any `.mp4` from your machine, and hit **Upload**.
 3. The server spawns FFmpeg and transcodes the video. Watch the terminal — you'll see segment generation in real time.
 4. Navigate to `http://localhost:5173`. Your video appears at the top of the feed with a `⚡ Local HLS` badge.
