@@ -1,9 +1,4 @@
-select any `. fr
-,  names, and view 
-
-
-
-| Token | Value
+select any `. 
 | `--accent-violet` | `#7c3aed` | Primary |
 | `--accent-pink` | `#c084fc` | Highlights, hover states, neon glow |
 | `--glass-bg` | `rgba(255,255,255,0.05)` | Glassmorphism card backgrounds |
