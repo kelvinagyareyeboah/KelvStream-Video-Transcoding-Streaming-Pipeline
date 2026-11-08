@@ -1,6 +1,6 @@
 select any `.mp4` from
-3.  and egment generation inme.
-4. Navigate to `http://localhost:5173`. Your video appears at the top of the feed with aHLS` badge.
+3.  and eg generation inme.
+4. ://localhost:5173`. Your video appears at the top of the feed with aHLS` badge.
 5. Click to aptive streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
 
 ### Browsing YouTube Content
