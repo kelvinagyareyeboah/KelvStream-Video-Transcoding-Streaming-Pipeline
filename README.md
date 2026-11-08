@@ -1,7 +1,6 @@
 select any `. 
 | `--accent-violet` 
-- ansla + 
-- Play 
+- 
   
 
 ## 
