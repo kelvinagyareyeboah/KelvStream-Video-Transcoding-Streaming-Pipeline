@@ -1,5 +1,5 @@
 select any `. 
-| `--accent-violet` | `#7c3aed` | 255,0.05)` | Glassmorphism |
+| `--accent-violet` | `#7c3aed` | 255,0.05)` 
 | lur(20px)` |r and 
 
 - anslateY(-4px)` + 
