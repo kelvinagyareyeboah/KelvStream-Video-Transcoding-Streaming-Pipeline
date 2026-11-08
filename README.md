@@ -1,6 +1,6 @@
 select any `.mp4` from
 3.  and eg generation r video appears at the aHLS` badge.
-5. Click to aptive streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
+ streaming. Throttle your network in DevTools → Network to observe live quality switching between 720p and 360p.
 
 ### Browsing YouTube Content
 
