@@ -1,6 +1,5 @@
 select any `. 
-| `--accent-violet` | `#7c3aed` | Primary |
-| `--accent-pink`  glow ,255,255,0.05)` | Glassmorphism |
+| `--accent-violet` | `#7c3aed` | 255,0.05)` | Glassmorphism |
 | lur(20px)` |r and 
 
 - anslateY(-4px)` + 
