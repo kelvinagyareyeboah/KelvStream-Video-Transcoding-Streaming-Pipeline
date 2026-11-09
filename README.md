@@ -1,8 +1,3 @@
-00/master.m3u8"
-
-```
-
-### u8`
 
 Returns the HLS master manifest for the given video ID.
 
