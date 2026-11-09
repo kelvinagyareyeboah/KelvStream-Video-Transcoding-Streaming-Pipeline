@@ -1,7 +1,6 @@
 
 Returns N=1280x720
-720p.m3u1
-000,RESOLUTION=640x360
+720p.m3ux360
 360p.m3u8
 ```
 
