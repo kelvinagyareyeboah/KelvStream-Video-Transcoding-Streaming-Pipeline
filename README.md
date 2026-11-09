@@ -1,6 +1,5 @@
 
-Returns the HLS master manifest for the given video ID.
-
+Returns the 
 INF:BANDWIDTH=2800000,RESOLUTION=1280x720
 720p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360
