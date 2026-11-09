@@ -1,8 +1,6 @@
 sele
 
 ###
-rm-data
-Body: file 
 
 **Response**
 ```json
