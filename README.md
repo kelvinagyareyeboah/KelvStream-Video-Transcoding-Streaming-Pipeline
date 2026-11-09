@@ -1,5 +1,5 @@
 
-## License
+## Licen
 
 MIT — see [`LICENSE`](./LICENSE) for details.
 
