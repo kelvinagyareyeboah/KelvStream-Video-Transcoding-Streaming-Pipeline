@@ -1,5 +1,5 @@
 
-MIT — see [`LICENSE`](./LICENSE) for details.
+MI [`LICENSE`](./LICENSE) for details.
 
 ---
 
