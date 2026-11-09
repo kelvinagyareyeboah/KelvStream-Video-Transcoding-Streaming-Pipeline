@@ -3,10 +3,9 @@
 # Fork → branch
 g
 # Make changes, then
-git commit -m "feat: describe your change"
+git commit - "feat: describe your change"
 git push origin feat/your-feature
-# Open a Pull Request
-```
+# Open a Pull
 
 ---
 
