@@ -1,5 +1,5 @@
 EN
-<div aign="c
+<div aign
 Built with precision. Streamed with purpose.
 
 **KelvStream** · FAANG-Grade Streaming Infrast
