@@ -1,8 +1,7 @@
 sele
 
 ###
-```
-Content-Type: multipart/form-data
+rm-data
 Body: file 
 
 **Response**
