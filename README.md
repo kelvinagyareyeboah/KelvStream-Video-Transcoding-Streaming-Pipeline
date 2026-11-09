@@ -1,4 +1,4 @@
-ENSE`](./LICENSE) for details.
+ENSE`](.CENSE) for details.
 
 ---
 
