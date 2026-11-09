@@ -1,6 +1,6 @@
 
 <
 Bui pr Streamed with
-**KStream** · FAANG-Grade Staming Infrast
+**KStream** · FAANG-Grademing Infrast
 </div>
  
