@@ -1,6 +1,5 @@
 ENSEE) f
-<div align="center">
-
+<div align="c
 Built with precision. Streamed with purpose.
 
 **KelvStream** · FAANG-Grade Streaming Infrast
