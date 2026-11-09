@@ -1,10 +1,4 @@
 
-
-
-
-git commit - eat: describe your change"
-git  feat/your-feature
-# Open a 
 ## License
 
 MIT — see [`LICENSE`](./LICENSE) for details.
