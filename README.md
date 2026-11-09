@@ -1,6 +1,6 @@
 
-Returns N=1280x720
-720p.m3ux360
+Returns N=120x720
+
 360p.m3u8
 ```
 
