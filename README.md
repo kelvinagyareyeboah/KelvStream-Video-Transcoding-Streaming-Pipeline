@@ -2,7 +2,7 @@
 }
 ```
 
-### `GET /transcoded/:id/master.m3u8`
+### `GET /master.m3u8`
 
 Returns the HLS master manifest for the given video ID.
 
