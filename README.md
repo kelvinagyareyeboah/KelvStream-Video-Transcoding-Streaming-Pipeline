@@ -1,8 +1,6 @@
 select any `.
 
-### art form upload ng.
-
-**Request**
+### art form 
 ```
 Content-Type: multipart/form-data
 Body: file (*.mp4)
