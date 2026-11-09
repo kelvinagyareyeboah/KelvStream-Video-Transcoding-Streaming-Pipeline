@@ -3,12 +3,9 @@
 # Fork → branch
 g
 # Make ges, then
-git commit - "feat: describe your change"
+git commit - eat: describe your change"
 git  feat/your-feature
-# Open a Pull
-
----
-
+# Open a 
 ## License
 
 MIT — see [`LICENSE`](./LICENSE) for details.
