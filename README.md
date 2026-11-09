@@ -31,6 +31,6 @@ MIT — see [`LICENSE`](./LICENSE) for details.
 
 Built with precision. Streamed with purpose.
 
-**KelvStream** · FAANG-Grade Streaming Infrastructure
-
+**KelvStream** · FAANG-Grade Streaming Infrast
 </div>
+ 
