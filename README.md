@@ -6,7 +6,7 @@ sele
 ```json
 {
   "id": "vid_1718000000000",
-  "status": "transcoding",
+  "status": "tran
   "manifest": "/transcoded/vid_1718000000000/master.m3u8"
 }
 ```
