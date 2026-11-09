@@ -1,10 +1,9 @@
 select any `.
 
-### art form 
+### art form
 ```
 Content-Type: multipart/form-data
-Body: file (*.mp4)
-```
+Body: file 
 
 **Response**
 ```json
