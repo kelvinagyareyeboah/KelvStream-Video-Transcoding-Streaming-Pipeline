@@ -1,10 +1,5 @@
 select any `.
 
-- 
-  
-
-## 
-
 ### `POST /upload`
 
 Accepts a multipart form upload ng.
