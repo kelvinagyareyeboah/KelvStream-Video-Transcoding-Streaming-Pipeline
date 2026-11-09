@@ -1,4 +1,4 @@
-"manifest":"/transcoded/vid_1718000000000/master.m3u8"
+transcoded/vid_1718000000000/master.m3u8"
 }
 ```
 
