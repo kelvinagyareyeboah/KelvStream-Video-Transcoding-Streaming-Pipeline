@@ -1,5 +1,5 @@
 
 B
-**KStre** · FAANG-Grademing Infrast
+**KStre** · FAANG-Graming Infrast
 </div>
  
