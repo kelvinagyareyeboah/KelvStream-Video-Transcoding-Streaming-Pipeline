@@ -1,7 +1,4 @@
-
-
-  "id": 000
-  "manifest": "/transcoded/vid_1718000000000/master.m3u8"
+"manifest":"/transcoded/vid_1718000000000/master.m3u8"
 }
 ```
 
