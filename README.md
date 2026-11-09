@@ -1,8 +1,6 @@
 select any `.
 
-### `POST 
-
-Accepts a multipart form upload ng.
+### art form upload ng.
 
 **Request**
 ```
