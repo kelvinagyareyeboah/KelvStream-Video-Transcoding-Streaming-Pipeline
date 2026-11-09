@@ -1,5 +1,4 @@
-
-MI [`LICENSE`](./LICENSE) for details.
+ENSE`](./LICENSE) for details.
 
 ---
 
