@@ -1,7 +1,7 @@
 
 
 # Fork → branch
-git checko
+g
 # Make changes, then
 git commit -m "feat: describe your change"
 git push origin feat/your-feature
