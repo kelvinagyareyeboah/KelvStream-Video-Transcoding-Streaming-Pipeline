@@ -1,4 +1,4 @@
-transcoded/vid_1718000000000/master.m3u8"
+00/master.m3u8"
 }
 ```
 
