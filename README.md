@@ -1,9 +1,5 @@
 
----
 
-## ng
-
-```bash
 # Fork → clone → branch
 git checkout 
 # Make changes, then
