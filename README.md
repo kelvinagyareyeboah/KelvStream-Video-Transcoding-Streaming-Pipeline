@@ -1,8 +1,7 @@
 
 
-# Fork → branch
-g
-# Make ges, then
+
+
 git commit - eat: describe your change"
 git  feat/your-feature
 # Open a 
