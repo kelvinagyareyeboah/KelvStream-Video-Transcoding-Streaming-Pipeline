@@ -2,9 +2,9 @@
 
 # Fork → branch
 g
-# Make changes, then
+# Make ges, then
 git commit - "feat: describe your change"
-git push origin feat/your-feature
+git  feat/your-feature
 # Open a Pull
 
 ---
