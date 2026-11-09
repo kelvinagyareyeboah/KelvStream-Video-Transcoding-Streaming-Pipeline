@@ -8,8 +8,7 @@
 
 ```bash
 # Fork → clone → branch
-git checkout -b feat/your-feature
-
+git checkout 
 # Make changes, then
 git commit -m "feat: describe your change"
 git push origin feat/your-feature
